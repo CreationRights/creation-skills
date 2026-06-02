@@ -1,0 +1,146 @@
+# Creation Skills Markdown Split Report
+
+Total top-level pages found: 88
+Total files written: 88
+Unmapped files written: 47
+
+## Written Files
+
+- Home → `content/pages/core/home.md`
+- What We Do → `content/pages/core/what-we-do.md`
+- Engagements → `content/pages/core/engagements.md`
+- Who We Help → `content/pages/core/who-we-help.md`
+- Method → `content/pages/core/method.md`
+- Thinking → `content/pages/core/resources.md`
+- About → `content/pages/core/about.md`
+- Book a C/Skills Review → `content/pages/core/book-review.md`
+- C/Skills Review → `content/pages/engagements/cskills-review.md`
+- Operating Model Design → `content/pages/engagements/operating-model-design.md`
+- Agent Operating Blueprint → `content/pages/engagements/agent-operating-blueprint.md`
+- Governance Blueprint → `content/pages/engagements/governance-blueprint.md`
+- Pilot Transformation → `content/pages/engagements/pilot-transformation.md`
+- Implementation Office → `content/pages/engagements/implementation-office.md`
+- Creation Rights Readiness → `content/pages/core/creation-rights-readiness.md`
+- Company Owned Production Agents → `content/pages/unmapped/company-owned-production-agents.md`
+- Operating Files → `content/pages/unmapped/operating-files.md`
+- Human Approval Gates → `content/pages/unmapped/human-approval-gates.md`
+- System Repair → `content/pages/unmapped/system-repair.md`
+- Production Paths → `content/pages/unmapped/production-paths.md`
+- Skills Transfer → `content/pages/unmapped/skills-transfer.md`
+- CIP Professional Development → `content/pages/unmapped/cip-professional-development.md`
+- FAQ → `content/pages/core/faq.md`
+- Contact → `content/pages/core/contact.md`
+- Media & Entertainment Enterprises → `content/pages/unmapped/media-and-entertainment-enterprises.md`
+- Brands with Large Content Operations → `content/pages/unmapped/brands-with-large-content-operations.md`
+- Agencies and Production Companies → `content/pages/unmapped/agencies-and-production-companies.md`
+- Enterprise Creative Operations → `content/pages/unmapped/enterprise-creative-operations.md`
+- Music Labels and Artist Teams → `content/pages/unmapped/music-labels-and-artist-teams.md`
+- Broadcasters and Media Networks → `content/pages/unmapped/broadcasters-and-media-networks.md`
+- Documentary and Film Teams → `content/pages/unmapped/documentary-and-film-teams.md`
+- Museums, Archives, and Cultural Institutions → `content/pages/unmapped/museums-archives-and-cultural-institutions.md`
+- Fashion and Luxury Houses → `content/pages/unmapped/fashion-and-luxury-houses.md`
+- Product and Commerce Media Teams → `content/pages/unmapped/product-and-commerce-media-teams.md`
+- Sports and Live Media Teams → `content/pages/unmapped/sports-and-live-media-teams.md`
+- Gaming and Interactive Media Teams → `content/pages/unmapped/gaming-and-interactive-media-teams.md`
+- Newsrooms and Publishers → `content/pages/unmapped/newsrooms-and-publishers.md`
+- Creator, Influencer, and Talent-Led Media Teams → `content/pages/unmapped/creator-influencer-and-talent-led-media-teams.md`
+- Legal, Rights, and Risk Teams → `content/pages/unmapped/legal-rights-and-risk-teams.md`
+- Technology, Platform, and Digital Asset Teams → `content/pages/unmapped/technology-platform-and-digital-asset-teams.md`
+- Executive Leaders and Transformation Sponsors → `content/pages/unmapped/executive-leaders-and-transformation-sponsors.md`
+- Partners and Ecosystem → `content/pages/unmapped/partners-and-ecosystem.md`
+- Speaking and Industry Briefings → `content/pages/unmapped/speaking-and-industry-briefings.md`
+- Terms and Language → `content/pages/unmapped/terms-and-language.md`
+- Confidentiality and Client Materials → `content/pages/unmapped/confidentiality-and-client-materials.md`
+- Responsible Agent Use → `content/pages/unmapped/responsible-agent-use.md`
+- Protected Records and Metadata → `content/pages/unmapped/protected-records-and-metadata.md`
+- Rights Review and NILP® Checks → `content/pages/unmapped/rights-review-and-nilp-checks.md`
+- Asset Reuse and Usage Controls → `content/pages/unmapped/asset-reuse-and-usage-controls.md`
+- Decision Rights and Escalation Paths → `content/pages/unmapped/decision-rights-and-escalation-paths.md`
+- How We Work → `content/pages/unmapped/how-we-work.md`
+- Deliverables and Operating Assets → `content/pages/unmapped/deliverables-and-operating-assets.md`
+- C/Skills Review Confirmation → `content/pages/unmapped/c-skills-review-confirmation.md`
+- Privacy Notice → `content/pages/utility/privacy.md`
+- Terms of Use → `content/pages/utility/terms.md`
+- Cookie Policy → `content/pages/utility/cookies.md`
+- Accessibility Statement → `content/pages/utility/accessibility.md`
+- 404 → `content/pages/utility/404.md`
+- Resources / Insights → `content/pages/unmapped/resources-insights.md`
+- Why Production Agents Need Owners → `content/pages/unmapped/why-production-agents-need-owners.md`
+- From Loose Prompts to Operating Files → `content/pages/unmapped/from-loose-prompts-to-operating-files.md`
+- The Human Approval Gate → `content/pages/unmapped/the-human-approval-gate.md`
+- Why Rights Reviews Belong Earlier → `content/pages/unmapped/why-rights-reviews-belong-earlier.md`
+- Creation Rights Readiness Checklist → `content/pages/unmapped/creation-rights-readiness-checklist.md`
+- Contact Confirmation / Thank You → `content/pages/unmapped/contact-confirmation-thank-you.md`
+- Partnership Enquiry Confirmation / Thank You → `content/pages/unmapped/partnership-enquiry-confirmation-thank-you.md`
+- Briefing Request Confirmation / Thank You → `content/pages/unmapped/briefing-request-confirmation-thank-you.md`
+- Newsletter / Updates Confirmation / Thank You. → `content/pages/unmapped/newsletter-updates-confirmation-thank-you.md`
+- Legal Notice / Company Information → `content/pages/utility/legal-notice.md`
+- Sitemap / Index Plan → `content/pages/internal/sitemap-index-plan.md`
+- Final Launch Sitemap → `content/pages/internal/final-launch-sitemap.md`
+- Final Menu Structure → `content/pages/internal/final-menu-structure.md`
+- Final Build Prompt → `content/pages/internal/final-build-prompt.md`
+- Page Cutdown Plan → `content/pages/internal/page-cutdown-plan.md`
+- Master Document Assembly Guide → `content/pages/internal/master-document-assembly-guide.md`
+- Master Page Status Index → `content/pages/internal/master-page-status-index.md`
+- Final QA Checklist → `content/pages/internal/final-qa-checklist.md`
+- Content Freeze Build Handoff → `content/pages/internal/content-freeze-build-handoff.md`
+- Future Publishing QueueFuture Publishing Queue → `content/pages/unmapped/future-publishing-queuefuture-publishing-queue.md`
+- SEO Metadata and URL Map → `content/pages/internal/seo-metadata-url-map.md`
+- Form Routing and Intake Plan → `content/pages/internal/form-routing-intake-plan.md`
+- Component and Template Map → `content/pages/internal/component-template-map.md`
+- Visual System and Art Direction → `content/pages/internal/visual-system-art-direction.md`
+- Build File Structure and Route Map → `content/pages/internal/build-file-structure-route-map.md`
+- Analytics and Measurement Plan → `content/pages/internal/analytics-measurement-plan.md`
+- Legal Review Tracker and Counsel Handoff → `content/pages/internal/legal-review-tracker.md`
+- Launch Readiness, Staging, and Deployment Plan → `content/pages/internal/launch-readiness-staging-deployment-plan.md`
+- Content Maintenance and Governance Plan → `content/pages/internal/content-maintenance-governance-plan.md`
+
+## Unmapped Headings
+
+- Company Owned Production Agents → `content/pages/unmapped/company-owned-production-agents.md`
+- Operating Files → `content/pages/unmapped/operating-files.md`
+- Human Approval Gates → `content/pages/unmapped/human-approval-gates.md`
+- System Repair → `content/pages/unmapped/system-repair.md`
+- Production Paths → `content/pages/unmapped/production-paths.md`
+- Skills Transfer → `content/pages/unmapped/skills-transfer.md`
+- CIP Professional Development → `content/pages/unmapped/cip-professional-development.md`
+- Media & Entertainment Enterprises → `content/pages/unmapped/media-and-entertainment-enterprises.md`
+- Brands with Large Content Operations → `content/pages/unmapped/brands-with-large-content-operations.md`
+- Agencies and Production Companies → `content/pages/unmapped/agencies-and-production-companies.md`
+- Enterprise Creative Operations → `content/pages/unmapped/enterprise-creative-operations.md`
+- Music Labels and Artist Teams → `content/pages/unmapped/music-labels-and-artist-teams.md`
+- Broadcasters and Media Networks → `content/pages/unmapped/broadcasters-and-media-networks.md`
+- Documentary and Film Teams → `content/pages/unmapped/documentary-and-film-teams.md`
+- Museums, Archives, and Cultural Institutions → `content/pages/unmapped/museums-archives-and-cultural-institutions.md`
+- Fashion and Luxury Houses → `content/pages/unmapped/fashion-and-luxury-houses.md`
+- Product and Commerce Media Teams → `content/pages/unmapped/product-and-commerce-media-teams.md`
+- Sports and Live Media Teams → `content/pages/unmapped/sports-and-live-media-teams.md`
+- Gaming and Interactive Media Teams → `content/pages/unmapped/gaming-and-interactive-media-teams.md`
+- Newsrooms and Publishers → `content/pages/unmapped/newsrooms-and-publishers.md`
+- Creator, Influencer, and Talent-Led Media Teams → `content/pages/unmapped/creator-influencer-and-talent-led-media-teams.md`
+- Legal, Rights, and Risk Teams → `content/pages/unmapped/legal-rights-and-risk-teams.md`
+- Technology, Platform, and Digital Asset Teams → `content/pages/unmapped/technology-platform-and-digital-asset-teams.md`
+- Executive Leaders and Transformation Sponsors → `content/pages/unmapped/executive-leaders-and-transformation-sponsors.md`
+- Partners and Ecosystem → `content/pages/unmapped/partners-and-ecosystem.md`
+- Speaking and Industry Briefings → `content/pages/unmapped/speaking-and-industry-briefings.md`
+- Terms and Language → `content/pages/unmapped/terms-and-language.md`
+- Confidentiality and Client Materials → `content/pages/unmapped/confidentiality-and-client-materials.md`
+- Responsible Agent Use → `content/pages/unmapped/responsible-agent-use.md`
+- Protected Records and Metadata → `content/pages/unmapped/protected-records-and-metadata.md`
+- Rights Review and NILP® Checks → `content/pages/unmapped/rights-review-and-nilp-checks.md`
+- Asset Reuse and Usage Controls → `content/pages/unmapped/asset-reuse-and-usage-controls.md`
+- Decision Rights and Escalation Paths → `content/pages/unmapped/decision-rights-and-escalation-paths.md`
+- How We Work → `content/pages/unmapped/how-we-work.md`
+- Deliverables and Operating Assets → `content/pages/unmapped/deliverables-and-operating-assets.md`
+- C/Skills Review Confirmation → `content/pages/unmapped/c-skills-review-confirmation.md`
+- Resources / Insights → `content/pages/unmapped/resources-insights.md`
+- Why Production Agents Need Owners → `content/pages/unmapped/why-production-agents-need-owners.md`
+- From Loose Prompts to Operating Files → `content/pages/unmapped/from-loose-prompts-to-operating-files.md`
+- The Human Approval Gate → `content/pages/unmapped/the-human-approval-gate.md`
+- Why Rights Reviews Belong Earlier → `content/pages/unmapped/why-rights-reviews-belong-earlier.md`
+- Creation Rights Readiness Checklist → `content/pages/unmapped/creation-rights-readiness-checklist.md`
+- Contact Confirmation / Thank You → `content/pages/unmapped/contact-confirmation-thank-you.md`
+- Partnership Enquiry Confirmation / Thank You → `content/pages/unmapped/partnership-enquiry-confirmation-thank-you.md`
+- Briefing Request Confirmation / Thank You → `content/pages/unmapped/briefing-request-confirmation-thank-you.md`
+- Newsletter / Updates Confirmation / Thank You. → `content/pages/unmapped/newsletter-updates-confirmation-thank-you.md`
+- Future Publishing QueueFuture Publishing Queue → `content/pages/unmapped/future-publishing-queuefuture-publishing-queue.md`
