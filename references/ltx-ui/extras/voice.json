@@ -1,0 +1,82 @@
+{
+  "tone": "neutral",
+  "pronoun": "we→you",
+  "headingStyle": "Title Case",
+  "headingLengthClass": "tight",
+  "ctaVerbs": [
+    {
+      "value": "talk",
+      "count": 4
+    },
+    {
+      "value": "learn",
+      "count": 3
+    },
+    {
+      "value": "explore",
+      "count": 3
+    },
+    {
+      "value": "join",
+      "count": 1
+    },
+    {
+      "value": "try",
+      "count": 1
+    },
+    {
+      "value": "ok",
+      "count": 1
+    }
+  ],
+  "buttonPatterns": [
+    {
+      "value": "talk to sales",
+      "count": 4
+    },
+    {
+      "value": "learn more",
+      "count": 3
+    },
+    {
+      "value": "huggingface\ngithub\njoin the discussion",
+      "count": 1
+    },
+    {
+      "value": "explore ltx 2.3\nexplore ltx desktop",
+      "count": 1
+    },
+    {
+      "value": "explore ltx 2.3",
+      "count": 1
+    },
+    {
+      "value": "explore ltx desktop",
+      "count": 1
+    },
+    {
+      "value": "try ltx now",
+      "count": 1
+    },
+    {
+      "value": "ok",
+      "count": 1
+    }
+  ],
+  "sampleHeadings": [
+    "Open Creative Intelligence, Built for Production",
+    "Build, Create, and Scale with LTX",
+    "LTX Models",
+    "LTX Studio",
+    "API",
+    "Research",
+    "API",
+    "Open Source",
+    "Academic Collaboration",
+    "LTX-2.3 and What We Built on It"
+  ],
+  "stats": {
+    "buttons": 13,
+    "headings": 17
+  }
+}

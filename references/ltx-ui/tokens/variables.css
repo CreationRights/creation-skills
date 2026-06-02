@@ -1,0 +1,167 @@
+:root {
+  /* Colors — Primary */
+  --color-primary: #ff72b2;
+  --color-secondary: #3860be;
+  --color-accent: #468254;
+
+  /* Colors — Neutrals */
+  --color-neutral-50: #333333;
+  --color-neutral-100: #f9f9f9;
+  --color-neutral-200: #000000;
+  --color-neutral-300: #696969;
+  --color-neutral-400: #999999;
+  --color-neutral-500: #555555;
+  --color-neutral-600: #1f1f24;
+  --color-neutral-700: #0b0b0b;
+  --color-neutral-800: #dddddd;
+  --color-neutral-900: #7d87a0;
+
+  /* Colors — Backgrounds */
+  --color-bg: #0b0b0b;
+  --color-bg-1: #000000;
+  --color-bg-2: #1f1f24;
+
+  /* Colors — Text */
+  --color-text: #000000;
+  --color-text-1: #333333;
+  --color-text-2: #fdfdfd;
+  --color-text-3: #f9f9f9;
+  --color-text-4: #999999;
+
+  /* Typography — Families */
+  --font-sans: 'Aeonik', sans-serif;
+  --font-heading: 'Miriam Libre', sans-serif;
+  --font-body: 'Times', sans-serif;
+  --font-body: 'Inconsolata', sans-serif;
+  --font-font-4: 'Arial', sans-serif;
+
+  /* Typography — Scale */
+  --font-size-75.2: 75.2px;
+  --font-size-56: 56px;
+  --font-size-55.04: 55.04px;
+  --font-size-40: 40px;
+  --font-size-36: 36px;
+  --font-size-32: 32px;
+  --font-size-28.8: 28.8px;
+  --font-size-28: 28px;
+  --font-size-25.6: 25.6px;
+  --font-size-24: 24px;
+  --font-size-21.92: 21.92px;
+  --font-size-20.8: 20.8px;
+
+  /* Spacing */
+  --spacing-1: 1px;
+  --spacing-35: 35px;
+  --spacing-38: 38px;
+  --spacing-48: 48px;
+  --spacing-64: 64px;
+  --spacing-72: 72px;
+  --spacing-80: 80px;
+  --spacing-192: 192px;
+  --spacing-208: 208px;
+  --spacing-245: 245px;
+  --spacing-312: 312px;
+  --spacing-367: 367px;
+  --spacing-392: 392px;
+
+  /* Border Radius */
+  --radius-xs: 2px;
+  --radius-md: 8px;
+  --radius-xl: 17px;
+  --radius-xl: 20px;
+  --radius-full: 50px;
+  --radius-full: 100px;
+  --radius-full: 130px;
+  --radius-full: 800px;
+
+  /* Box Shadows */
+  --shadow-sm: rgba(0, 0, 0, 0) 0px 2px 4px 0px, rgba(50, 50, 93, 0.1) 0px 7px 14px 0px;
+  --shadow-md: rgb(199, 197, 199) -3px -3px 5px -2px;
+  --shadow-md: rgb(199, 197, 199) 0px 0px 12px 2px;
+  --shadow-lg: rgba(0, 0, 0, 0.2) 0px 0px 18px 0px;
+
+  /* Original Site Variables */
+  /* — colors — */
+  --_ltx-brand-colors---ltx-grey-light: #999;
+  --_ltx-brand-colors---ltx-black: #0b0b0b;
+  --_theme---text-secondary: var(--_ltx-brand-colors---ltx-grey-light);
+  --_ltx-brand-colors---ltx-grey-medium: #636367;
+  --_ltx-brand-colors---ltx-gray-blue-very-light: #d4dae8;
+  --_ltx-brand-colors---ltx-grey-blue-dark: #2e3445;
+  --_ltx-brand-colors---ltx-grey-dark: #1f1f24;
+  --_ltx-brand-colors---ltx-grey-blue-light: #868ea5;
+  --_ltx-brand-colors---ltx-white: #f9f9f9;
+  --_ltx-brand-colors---ltx-off-white: #e7e8eb;
+  --_theme---card-secondary: var(--_ltx-brand-colors---ltx-grey-dark);
+  --_theme---navbar-bg: #0b0b0b8c;
+  --_theme---border-trans: var(--_ltx-brand-colors---ltx-grey-blue-dark);
+  --_theme---border: var(--_ltx-brand-colors---ltx-white);
+  --_theme---card-bg: var(--_ltx-brand-colors---ltx-grey-blue-dark);
+  --_theme---but-glass-bg: #f9f9f926;
+  --_theme---icon-color<deleted|variable-70a45cf2-dc92-338f-e8f0-3970fb59e826>: var(--_ltx-brand-colors---ltx-white);
+  --_theme---but-border: var(--_ltx-brand-colors---ltx-white);
+  --_theme---but-border-hover: var(--_ltx-brand-colors---ltx-white);
+  --_theme---but-bg-hover: var(--_ltx-brand-colors---ltx-white);
+  --_theme---dd-menu-item-bg-hover: #868ea526;
+  --_theme---dd-menu-bg: var(--_ltx-brand-colors---ltx-grey-dark);
+  --_ltx-brand-colors---ltx-white-blue-tint: #ebedf2;
+  --_ltx-brand-colors---ltx-purple-light: #a98bd9;
+  --_ltx-brand-colors---ltx-gray: #eee;
+  --_ltx-brand-colors---ltx-gray-blue-medium: #bbc0cb;
+  --_button-style---border: white;
+  --_button-style---border-hover: var(--_ltx-brand-colors---ltx-purple-light);
+  --_ltx-brand-colors---ltx-purple-dark: #6d28d9;
+  --_theme---but-glass-bg-hover: #f9f9f926;
+  /* — typography — */
+  --_theme---text: var(--_ltx-brand-colors---ltx-white);
+  --_theme---but-text: var(--_ltx-brand-colors---ltx-white);
+  --_theme---but-text-hover: var(--_ltx-brand-colors---ltx-black);
+  --_button-style---text: white;
+  --_button-style---text-hover: var(--_ltx-brand-colors---ltx-purple-light);
+  /* — other — */
+  --purple-dark: #aa5fff;
+  --black: #0b0b0b;
+  --_theme---background: var(--_ltx-brand-colors---ltx-black);
+  --purple-neon: #b244f7;
+  --grey-light: #636367;
+  --purple-light: #b97fde;
+  --white: white;
+  --grey-dark: #1f1f24;
+  --grey-medium: #413e45;
+  --flash-white: #f0f0f0;
+  --_licensing---lc-purple: #622988;
+  --_theme---but-background-2: #0b0b0b00;
+  --_theme---but-background: var(--_ltx-brand-colors---ltx-white);
+  --_nld-contest---nld-green: #4eef71;
+  --_licensing---lc-green: #54d475;
+  --_licensing---lc-purple2: #a150e3;
+  --_button-style---background: #fff0;
+  --_button-style---icon: white;
+  --_button-style---background-hover: white;
+  --_button-style---icon-hover: var(--purple-light);
+  /* — dependencies — */
+  --_theme---text: --_ltx-brand-colors---ltx-white;
+  --_theme---text-secondary: --_ltx-brand-colors---ltx-grey-light;
+  --_theme---background: --_ltx-brand-colors---ltx-black;
+  --_theme---card-secondary: --_ltx-brand-colors---ltx-grey-dark;
+  --_theme---border-trans: --_ltx-brand-colors---ltx-grey-blue-dark;
+  --_theme---border: --_ltx-brand-colors---ltx-white;
+  --_theme---card-bg: --_ltx-brand-colors---ltx-grey-blue-dark;
+  --_theme---but-text: --_ltx-brand-colors---ltx-white;
+  --_theme---icon-color<deleted|variable-70a45cf2-dc92-338f-e8f0-3970fb59e826>: --_ltx-brand-colors---ltx-white;
+  --_theme---but-border: --_ltx-brand-colors---ltx-white;
+  --_theme---but-border-hover: --_ltx-brand-colors---ltx-white;
+  --_theme---but-bg-hover: --_ltx-brand-colors---ltx-white;
+  --_theme---but-text-hover: --_ltx-brand-colors---ltx-black;
+  --_theme---but-background: --_ltx-brand-colors---ltx-white;
+  --_theme---dd-menu-bg: --_ltx-brand-colors---ltx-grey-dark;
+  --_button-style---border-hover: --_ltx-brand-colors---ltx-purple-light;
+  --_button-style---text-hover: --_ltx-brand-colors---ltx-purple-light;
+  --_button-style---icon-hover: --purple-light;
+  /* — semantic — */
+  success: [object Object];
+  warning: [object Object];
+  error: [object Object];
+  info: [object Object];
+
+}

@@ -1,0 +1,296 @@
+{
+  "color": {
+    "primary": {
+      "$value": "#ff72b2",
+      "$type": "color"
+    },
+    "secondary": {
+      "$value": "#3860be",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#468254",
+      "$type": "color"
+    },
+    "neutral-0": {
+      "$value": "#333333",
+      "$type": "color"
+    },
+    "neutral-1": {
+      "$value": "#f9f9f9",
+      "$type": "color"
+    },
+    "neutral-2": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "neutral-3": {
+      "$value": "#696969",
+      "$type": "color"
+    },
+    "neutral-4": {
+      "$value": "#999999",
+      "$type": "color"
+    },
+    "neutral-5": {
+      "$value": "#555555",
+      "$type": "color"
+    },
+    "neutral-6": {
+      "$value": "#1f1f24",
+      "$type": "color"
+    },
+    "neutral-7": {
+      "$value": "#0b0b0b",
+      "$type": "color"
+    },
+    "neutral-8": {
+      "$value": "#dddddd",
+      "$type": "color"
+    },
+    "neutral-9": {
+      "$value": "#7d87a0",
+      "$type": "color"
+    },
+    "background-0": {
+      "$value": "#0b0b0b",
+      "$type": "color"
+    },
+    "background-1": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "background-2": {
+      "$value": "#1f1f24",
+      "$type": "color"
+    },
+    "text-0": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "text-1": {
+      "$value": "#333333",
+      "$type": "color"
+    },
+    "text-2": {
+      "$value": "#fdfdfd",
+      "$type": "color"
+    },
+    "text-3": {
+      "$value": "#f9f9f9",
+      "$type": "color"
+    },
+    "text-4": {
+      "$value": "#999999",
+      "$type": "color"
+    }
+  },
+  "fontFamily": {
+    "aeonik": {
+      "$value": "Aeonik",
+      "$type": "fontFamily"
+    },
+    "miriam-libre": {
+      "$value": "Miriam Libre",
+      "$type": "fontFamily"
+    },
+    "body": {
+      "$value": "Inconsolata",
+      "$type": "fontFamily"
+    },
+    "arial": {
+      "$value": "Arial",
+      "$type": "fontFamily"
+    }
+  },
+  "fontSize": {
+    "16": {
+      "$value": "16px",
+      "$type": "dimension"
+    },
+    "24": {
+      "$value": "24px",
+      "$type": "dimension"
+    },
+    "28": {
+      "$value": "28px",
+      "$type": "dimension"
+    },
+    "32": {
+      "$value": "32px",
+      "$type": "dimension"
+    },
+    "36": {
+      "$value": "36px",
+      "$type": "dimension"
+    },
+    "40": {
+      "$value": "40px",
+      "$type": "dimension"
+    },
+    "56": {
+      "$value": "56px",
+      "$type": "dimension"
+    },
+    "75.2": {
+      "$value": "75.2px",
+      "$type": "dimension"
+    },
+    "55.04": {
+      "$value": "55.04px",
+      "$type": "dimension"
+    },
+    "28.8": {
+      "$value": "28.8px",
+      "$type": "dimension"
+    },
+    "25.6": {
+      "$value": "25.6px",
+      "$type": "dimension"
+    },
+    "21.92": {
+      "$value": "21.92px",
+      "$type": "dimension"
+    },
+    "20.8": {
+      "$value": "20.8px",
+      "$type": "dimension"
+    },
+    "19.2": {
+      "$value": "19.2px",
+      "$type": "dimension"
+    },
+    "17.6": {
+      "$value": "17.6px",
+      "$type": "dimension"
+    }
+  },
+  "spacing": {
+    "19": {
+      "$value": "38px",
+      "$type": "dimension"
+    },
+    "24": {
+      "$value": "48px",
+      "$type": "dimension"
+    },
+    "32": {
+      "$value": "64px",
+      "$type": "dimension"
+    },
+    "36": {
+      "$value": "72px",
+      "$type": "dimension"
+    },
+    "40": {
+      "$value": "80px",
+      "$type": "dimension"
+    },
+    "96": {
+      "$value": "192px",
+      "$type": "dimension"
+    },
+    "104": {
+      "$value": "208px",
+      "$type": "dimension"
+    },
+    "156": {
+      "$value": "312px",
+      "$type": "dimension"
+    },
+    "196": {
+      "$value": "392px",
+      "$type": "dimension"
+    },
+    "1px": {
+      "$value": "1px",
+      "$type": "dimension"
+    },
+    "35px": {
+      "$value": "35px",
+      "$type": "dimension"
+    },
+    "245px": {
+      "$value": "245px",
+      "$type": "dimension"
+    },
+    "367px": {
+      "$value": "367px",
+      "$type": "dimension"
+    }
+  },
+  "borderRadius": {
+    "xs": {
+      "$value": "2px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "8px",
+      "$type": "dimension"
+    },
+    "xl": {
+      "$value": "20px",
+      "$type": "dimension"
+    },
+    "full": {
+      "$value": "800px",
+      "$type": "dimension"
+    }
+  },
+  "shadow": {
+    "sm": {
+      "$value": "rgba(0, 0, 0, 0) 0px 2px 4px 0px, rgba(50, 50, 93, 0.1) 0px 7px 14px 0px",
+      "$type": "shadow"
+    },
+    "md": {
+      "$value": "rgb(199, 197, 199) 0px 0px 12px 2px",
+      "$type": "shadow"
+    },
+    "lg": {
+      "$value": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+      "$type": "shadow"
+    }
+  },
+  "breakpoint": {
+    "400px": {
+      "$value": "400px",
+      "$type": "dimension"
+    },
+    "sm": {
+      "$value": "640px",
+      "$type": "dimension"
+    },
+    "550px": {
+      "$value": "550px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "769px",
+      "$type": "dimension"
+    },
+    "890px": {
+      "$value": "890px",
+      "$type": "dimension"
+    },
+    "896px": {
+      "$value": "896px",
+      "$type": "dimension"
+    },
+    "897px": {
+      "$value": "897px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "1024px",
+      "$type": "dimension"
+    },
+    "xl": {
+      "$value": "1280px",
+      "$type": "dimension"
+    },
+    "1920px": {
+      "$value": "1920px",
+      "$type": "dimension"
+    }
+  }
+}

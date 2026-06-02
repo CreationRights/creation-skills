@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #ff72b2;
+  --color-secondary: #3860be;
+  --color-accent: #468254;
+  --color-background: #0b0b0b;
+  --color-foreground: #000000;
+  --radius: 8px;
+  --shadow: rgb(199, 197, 199) -3px -3px 5px -2px;
+  --font-sans: 'Aeonik', system-ui, sans-serif;
+}
+body { background: var(--color-background); color: var(--color-foreground); font-family: var(--font-sans); }
