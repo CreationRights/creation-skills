@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="843" viewBox="0 0 2048 843" role="img" aria-label="C/Skills. A Creation Rights Division logo">
+<rect width="2048" height="843" fill="#171819"/>
+<g filter="url(#softDepth)">
+<text x="70" y="425" fill="#FFFFFF" style="font-family:'Inter Display','Inter',Arial,sans-serif; font-weight:900; font-size:470px; letter-spacing:-12px;">C</text>
+<path fill="#A9C9A3" d="M559 86 L623 86 L500 437 L435 437 Z"/>
+<text x="630" y="425" fill="#FFFFFF" style="font-family:'Inter Display','Inter',Arial,sans-serif; font-weight:900; font-size:470px; letter-spacing:-18px;">Skills.</text>
+<text x="162.3" y="710" fill="#FFFFFF" style="font-family:'Inter Display','Inter',Arial,sans-serif; font-weight:400; font-size:160px; letter-spacing:-3px;">A Creation Rights Division</text>
+</g>
+<defs>
+  <filter id="softDepth" x="-5%" y="-5%" width="110%" height="115%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2.4" flood-color="#000000" flood-opacity="0.28"/>
+  </filter>
+</defs>
+</svg>

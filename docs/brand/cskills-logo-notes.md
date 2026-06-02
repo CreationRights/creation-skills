@@ -1,45 +1,26 @@
 # Creation Skills Logo Notes
 
-Brand name:
-Creation Skills
+Primary site logo:
+`/brand/cskills/cskills-logo-white.svg`
 
-Short lockup:
-C/Skills.
+PNG fallback:
+`/brand/cskills/cskills-logo-white.png`
 
-Subline:
-A Creation Rights Division
+Use the white SVG logo for:
+- header
+- footer
+- dark hero sections
+- dark form pages
+- legal pages
 
-Logo status:
-Final logo files are not yet added.
-
-Build instruction:
-Do not invent a logo image path.
-Use a text-based logo lockup until final SVG/PNG assets are provided.
-
-Default header lockup:
+Fallback text lockup:
 C/Skills.
 A Creation Rights Division
-
-Default footer lockup:
-Creation Skills
-C/Skills. A Creation Rights Division
-
-Future logo asset folder:
-`public/brand/cskills/`
-
-Future original logo archive:
-`assets-originals/logos/cskills/`
-
-Expected future files:
-- `cskills-logo-light.svg`
-- `cskills-logo-dark.svg`
-- `cskills-mark-light.svg`
-- `cskills-mark-dark.svg`
-- `cskills-wordmark-light.svg`
-- `cskills-wordmark-dark.svg`
 
 Rules:
-- Do not use the old reference image as a logo.
-- Do not create fake logos from generated image text.
-- Do not place logo images inside `public/images/cskills/`.
-- If SVGs are missing, render the logo as live text using HTML/CSS.
+- Use the white SVG as the launch logo.
+- Do not invent logo paths.
+- Do not use generated image text as a logo.
+- Do not place logo files inside `public/images/cskills/`.
+- Keep logo files in `public/brand/cskills/`.
+- Keep original logo exports in `assets-originals/logos/cskills/`.
