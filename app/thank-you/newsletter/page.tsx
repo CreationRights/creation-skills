@@ -1,9 +1,18 @@
-export default function PlaceholderPage() {
+import { thankYouPages } from "@/content/utilityPages";
+import Button from "@/components/ui/Button";
+
+const page = thankYouPages.newsletter;
+
+export const metadata = { title: page.title + " | Creation Skills" };
+
+export default function ThankYouNewsletterPage() {
   return (
-    <main style={{ padding: "48px", fontFamily: "system-ui, sans-serif" }}>
-      <h1>Creation Skills</h1>
-      <p>Placeholder page for <code>/thank-you/newsletter</code>.</p>
-      <p>This route will be replaced with the final Creation Skills content.</p>
-    </main>
+    <div className="thank-you">
+      <div className="thank-you__content">
+        <h1>{page.headline}</h1>
+        <p>{page.body}</p>
+        <Button href={page.cta.href}>{page.cta.label}</Button>
+      </div>
+    </div>
   );
 }

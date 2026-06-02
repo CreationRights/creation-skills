@@ -1,11 +1,13 @@
-import Link from "next/link";
+import Button from "@/components/ui/Button";
 
 export default function NotFound() {
   return (
-    <main style={{ padding: "48px", fontFamily: "system-ui, sans-serif" }}>
-      <h1>Page not found</h1>
-      <p>This page is not built yet.</p>
-      <Link href="/">Return home</Link>
-    </main>
+    <div className="thank-you">
+      <div className="thank-you__content">
+        <h1>Page not found</h1>
+        <p>The page you are looking for does not exist or has been moved.</p>
+        <Button href="/">Return Home</Button>
+      </div>
+    </div>
   );
 }

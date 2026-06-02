@@ -1,10 +1,8 @@
 import "./globals.css";
+import { getPageMeta } from "@/lib/seo";
+import PageShell from "@/components/layout/PageShell";
 
-export const metadata = {
-  title: "Creation Skills | C/Skills",
-  description:
-    "Creation Skills helps companies build the company flow behind modern media.",
-};
+export const metadata = getPageMeta("/");
 
 export default function RootLayout({
   children,
@@ -13,7 +11,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body>{children}</body>
+      <body>
+        <PageShell>{children}</PageShell>
+      </body>
     </html>
   );
 }
