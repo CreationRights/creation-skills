@@ -11,7 +11,7 @@ export default function AccessibilityPage() {
       <Container narrow>
         <div className="utility-page">
           <h1>Accessibility</h1>
-          <p><strong>Creation Skills</strong> &mdash; A Creation Rights Division</p>
+          <p><strong>Creation Skills</strong>, A Creation Rights Division</p>
 
           <h2>Our Commitment</h2>
           <p>Creation Skills is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards.</p>

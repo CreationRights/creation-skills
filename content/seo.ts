@@ -29,7 +29,7 @@ export const pageSeo: Record<string, { title: string; description: string }> = {
   },
   "/about": {
     title: "About | Creation Skills",
-    description: "Creation Skills is the consulting and transformation division of Creation Rights, preparing companies for governed media creation.",
+    description: "Creation Skills is the consulting division of Creation Rights, preparing companies for governed media creation.",
   },
   "/book-review": {
     title: "Book a C/Skills Review | Creation Skills",

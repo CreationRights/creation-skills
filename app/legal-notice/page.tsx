@@ -11,7 +11,7 @@ export default function LegalNoticePage() {
       <Container narrow>
         <div className="utility-page">
           <h1>Legal Notice</h1>
-          <p><strong>Creation Skills</strong> &mdash; A Creation Rights Division</p>
+          <p><strong>Creation Skills</strong>, A Creation Rights Division</p>
 
           <h2>Operator</h2>
           <p>This website is operated by Creation Skills, a division of Creation Rights.</p>
