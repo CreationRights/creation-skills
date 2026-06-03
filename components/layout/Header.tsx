@@ -36,12 +36,16 @@ export default function Header() {
           ))}
           <Link
             href={ctaNav.href}
-            className="header__cta"
+            className="header__cta header__cta--mobile"
             onClick={() => setOpen(false)}
           >
             {ctaNav.label}
           </Link>
         </nav>
+
+        <Link href={ctaNav.href} className="header__cta header__cta--desktop">
+          {ctaNav.label}
+        </Link>
 
         <button
           className="header__menu-btn"

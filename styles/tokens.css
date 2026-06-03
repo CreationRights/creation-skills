@@ -1,47 +1,34 @@
 :root {
-  /* ── Base palette ── */
-  --color-black: #080a08;
-  --color-charcoal: #111311;
-  --color-charcoal-light: #181a18;
-  --color-charcoal-mid: #1e201e;
-  --color-surface: #232523;
-  --color-surface-raised: #2a2c2a;
-  --color-border: #333533;
-  --color-border-light: #444644;
+  /* ── Background surfaces ── */
+  --color-bg: #0d0d0d;
+  --color-surface-lowest: #080808;
+  --color-surface-low: #141414;
+  --color-surface: #1a1a1a;
+  --color-surface-high: #222222;
+  --color-surface-highest: #2c2c2c;
 
   /* ── Text ── */
-  --color-text-primary: #f4eee8;
-  --color-text-secondary: #b8b2aa;
-  --color-text-muted: #8a847e;
-  --color-text-heading: #f5efe6;
+  --color-text-primary: #F5F5F5;
+  --color-text-secondary: #B0B0B0;
+  --color-text-muted: #808080;
+  --color-text-faint: #555555;
 
-  /* ── Accent ── */
-  --color-lime: #b4f740;
-  --color-lime-hover: #c6ff5e;
-  --color-lime-muted: #8bc834;
-  --color-lime-text: #111311;
+  /* ── Accent — Lime ── */
+  --color-lime: #B8F600;
+  --color-lime-hover: #CFFF33;
+  --color-lime-dim: #8ABF00;
+  --color-lime-text: #0d0d0d;
 
-  /* ── Peach / warm ── */
-  --color-peach: #f5efe6;
-  --color-peach-muted: #e0d6c8;
+  /* ── Borders ── */
+  --color-border: #1A1A1A;
+  --color-border-hover: #333333;
 
   /* ── Feedback ── */
-  --color-error: #f74040;
-  --color-success: #40f780;
-
-  /* ── Spacing scale ── */
-  --space-xs: 4px;
-  --space-sm: 8px;
-  --space-md: 16px;
-  --space-lg: 24px;
-  --space-xl: 32px;
-  --space-2xl: 48px;
-  --space-3xl: 64px;
-  --space-4xl: 96px;
-  --space-5xl: 128px;
+  --color-error: #FF4040;
+  --color-success: #40FF80;
 
   /* ── Typography ── */
-  --font-sans: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-sans: "Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
   --font-mono: "JetBrains Mono", "Fira Code", monospace;
 
   --text-xs: 0.75rem;
@@ -65,24 +52,75 @@
   --tracking-wide: 0.06em;
   --tracking-wider: 0.1em;
 
-  /* ── Layout ── */
-  --max-width: 1280px;
-  --max-width-narrow: 800px;
-  --max-width-wide: 1440px;
-  --header-height: 64px;
+  /* ── Spacing ── */
+  --space-2: 2px;
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-48: 48px;
+  --space-64: 64px;
+  --space-80: 80px;
+  --space-96: 96px;
+  --space-128: 128px;
 
   /* ── Radius ── */
+  --radius-none: 0px;
   --radius-sm: 4px;
   --radius-md: 8px;
   --radius-lg: 12px;
   --radius-xl: 16px;
-
-  /* ── Transitions ── */
-  --transition-fast: 150ms ease;
-  --transition-base: 250ms ease;
-  --transition-slow: 400ms ease;
+  --radius-full: 9999px;
 
   /* ── Shadows ── */
+  --shadow-glow-lime: 0 0 20px rgba(184, 246, 0, 0.1);
+  --shadow-glow-lime-lg: 0 0 40px rgba(184, 246, 0, 0.2);
+
+  /* ── Motion ── */
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
+  --duration-slow: 450ms;
+  --ease-default: ease;
+  --ease-out: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --ease-smooth: cubic-bezier(0.165, 0.84, 0.44, 1);
+
+  /* ── Layout ── */
+  --max-width: 1320px;
+  --max-width-narrow: 800px;
+  --max-width-wide: 1440px;
+  --header-height: 80px;
+
+  /* ── Z-index ── */
+  --z-header: 100;
+  --z-overlay: 200;
+  --z-modal: 300;
+
+  /* ── Legacy aliases (subpage compat) ── */
+  --color-black: #0d0d0d;
+  --color-charcoal: #141414;
+  --color-charcoal-light: #1a1a1a;
+  --color-charcoal-mid: #1a1a1a;
+  --color-surface-raised: #222222;
+  --color-border-light: #333333;
+  --color-text-heading: #F5F5F5;
+  --color-peach: #F5F5F5;
+  --color-peach-muted: #B0B0B0;
+  --color-lime-muted: #8ABF00;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+  --space-5xl: 128px;
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 450ms ease;
   --shadow-card: 0 1px 3px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.2);
   --shadow-card-hover: 0 4px 16px rgba(0,0,0,0.5), 0 8px 32px rgba(0,0,0,0.3);
 }

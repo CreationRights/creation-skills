@@ -1,0 +1,28 @@
+# Recipe: button
+Build one button component that matches this brand.
+Palette: #333333, #f9f9f9, #000000, #999999, #555555, #1f1f24
+Typography: [object Object], [object Object], [object Object], [object Object]
+Material: material-you
+Signals: Radius: 2, 8, 17, 20, 50, 100 · Shadows: rgba(0, 0, 0, 0) 0px 2px 4px 0px, rgba(50, 50, 93, 0.1) 0px 7px 14px 0px | rgb(199, 197, 199) -3px -3px 5px -2px | rgb(199, 197, 199) 0px 0px 12px 2px
+## Anatomy (detected)
+```json
+{
+  "kind": "button",
+  "structuralHash": "div>a",
+  "instanceCount": 1,
+  "variants": [
+    {
+      "css": {
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(51, 51, 51)",
+        "padding": "0px 0px 0px 0px",
+        "borderRadius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      "instanceCount": 1
+    }
+  ]
+}
+```

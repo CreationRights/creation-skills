@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <footer className="footer">
-      <div className="container container--wide">
+      <div className="container">
         <div className="footer__grid">
           <div className="footer__brand">
             <Image
@@ -17,10 +17,10 @@ export default function Footer() {
               width={120}
               height={28}
             />
-            <p style={{ marginTop: "8px" }}>
+            <p className="footer__subline">
               {cskillsLogo.subline}
             </p>
-            <p style={{ marginTop: "12px" }}>
+            <p className="footer__desc">
               {footerContent.positioning}
             </p>
           </div>

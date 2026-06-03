@@ -11,7 +11,7 @@ export default function PrivacyPage() {
       <Container narrow>
         <div className="utility-page">
           <h1>Privacy Policy</h1>
-          <p><strong>Creation Skills</strong> &mdash; A Creation Rights Division</p>
+          <p><strong>Creation Skills</strong>, A Creation Rights Division</p>
 
           <h2>Introduction</h2>
           <p>Creation Skills is committed to protecting the privacy of individuals who visit our website and engage with our services. This policy explains how we collect, use, and protect your information.</p>

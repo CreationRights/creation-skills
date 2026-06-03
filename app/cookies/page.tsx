@@ -11,7 +11,7 @@ export default function CookiesPage() {
       <Container narrow>
         <div className="utility-page">
           <h1>Cookie Policy</h1>
-          <p><strong>Creation Skills</strong> &mdash; A Creation Rights Division</p>
+          <p><strong>Creation Skills</strong>, A Creation Rights Division</p>
 
           <h2>What Are Cookies</h2>
           <p>Cookies are small text files stored on your device when you visit a website. They help the website function properly and provide information to improve your experience.</p>

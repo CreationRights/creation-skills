@@ -10,7 +10,7 @@ export const metadata: Metadata = getPageMeta("/faq");
 const faqs = [
   {
     q: "What is Creation Skills?",
-    a: "Creation Skills is the consulting and transformation division of Creation Rights. We help companies redesign the operating model behind media creation so the people, production agents, operating files, approval gates, and rights review paths are ready before the Creation Rights platform governs the protected layer.",
+    a: "Creation Skills is the consulting division of Creation Rights. We help companies redesign the operating model behind media creation so the people, production agents, operating files, approval gates, and rights review paths are ready before the Creation Rights platform governs the protected layer.",
   },
   {
     q: "Who is Creation Skills for?",
@@ -22,7 +22,7 @@ const faqs = [
   },
   {
     q: "What is a production agent?",
-    a: "A company-owned production agent is a defined role within the company\u2019s media creation process. Each agent has a name, owner, approved tasks, blocked tasks, operating files, review path, and risk level. Agents prepare the work. Humans approve the decisions that matter.",
+    a: "A company-owned production agent is a defined role within the company's media creation process. Each agent has a name, owner, approved tasks, blocked tasks, operating files, review path, and risk level. Agents prepare the work. Humans approve the decisions that matter.",
   },
   {
     q: "What is an operating file?",
@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "What is NILP\u00AE?",
-    a: "NILP\u00AE refers to Name, Image, Likeness, and Performance rights. These are the rights associated with how a person\u2019s identity and creative contribution are used in media production. Creation Skills ensures NILP\u00AE checks are built into the company flow before media moves.",
+    a: "NILP\u00AE refers to Name, Image, Likeness, and Performance rights. These are the rights associated with how a person's identity and creative contribution are used in media production. Creation Skills ensures NILP\u00AE checks are built into the company flow before media moves.",
   },
   {
     q: "What does a C/Skills Review include?",
@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     q: "Is Creation Skills a software product?",
-    a: "No. Creation Skills is a consulting and transformation practice. We do not sell software, licences, or SaaS products. We help companies redesign the operating model behind media creation. Creation Rights is the platform. Creation Skills prepares the company for it.",
+    a: "No. Creation Skills is a consulting practice. We do not sell software, licences, or SaaS products. We help companies redesign the operating model behind media creation. Creation Rights is the platform. Creation Skills prepares the company for it.",
   },
   {
     q: "How do I start?",

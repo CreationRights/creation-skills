@@ -15,7 +15,7 @@ export default function AboutPage() {
     <>
       <Hero
         eyebrow="ABOUT"
-        headline="The consulting and transformation division of Creation Rights."
+        headline="The consulting division of Creation Rights."
         subhead="Creation Skills helps companies redesign the operating model behind media creation so the people, production agents, operating files, approval gates, and rights review paths are ready before the Creation Rights platform governs the protected layer."
         image={cskillsImages.supporting.about}
         compact
@@ -47,7 +47,7 @@ export default function AboutPage() {
             left={{
               title: "Creation Skills",
               items: [
-                "Consulting and transformation",
+                "Consulting and implementation",
                 "Company flow redesign",
                 "Production agent design",
                 "Operating file development",

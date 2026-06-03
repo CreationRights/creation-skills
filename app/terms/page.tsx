@@ -11,13 +11,13 @@ export default function TermsPage() {
       <Container narrow>
         <div className="utility-page">
           <h1>Terms of Service</h1>
-          <p><strong>Creation Skills</strong> &mdash; A Creation Rights Division</p>
+          <p><strong>Creation Skills</strong>, A Creation Rights Division</p>
 
           <h2>Acceptance of Terms</h2>
           <p>By accessing and using the Creation Skills website, you accept and agree to be bound by these terms of service.</p>
 
           <h2>Services</h2>
-          <p>Creation Skills provides consulting and transformation services for media creation operations. All engagements are subject to separate engagement agreements.</p>
+          <p>Creation Skills provides consulting services for media creation operations. All engagements are subject to separate engagement agreements.</p>
 
           <h2>Intellectual Property</h2>
           <p>All content on this website, including text, images, logos, and design, is the property of Creation Skills or its licensors. You may not reproduce, distribute, or create derivative works without prior written consent.</p>
