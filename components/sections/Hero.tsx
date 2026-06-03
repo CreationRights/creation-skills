@@ -1,9 +1,10 @@
 import Image from "next/image";
 import Button from "@/components/ui/Button";
+import { ReactNode } from "react";
 
 type HeroProps = {
   eyebrow?: string;
-  headline: string;
+  headline: ReactNode;
   subhead?: string;
   primaryCta?: { label: string; href: string };
   secondaryCta?: { label: string; href: string };
