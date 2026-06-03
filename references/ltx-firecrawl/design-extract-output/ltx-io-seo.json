@@ -1,0 +1,53 @@
+{
+  "openGraph": {
+    "title": "LTX | The Top Open-Source AI Video Generation Model",
+    "description": "LTX brings together open video models, a full creative studio, and a developer API, everything you need to build and ship AI video at scale.",
+    "image": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/695acefd2f8d1bb5aa46759e_ltx-io.jpg",
+    "type": "website"
+  },
+  "twitter": {
+    "title": "LTX | The Top Open-Source AI Video Generation Model",
+    "description": "LTX brings together open video models, a full creative studio, and a developer API, everything you need to build and ship AI video at scale.",
+    "card": "summary_large_image"
+  },
+  "description": "LTX brings together open video models, a full creative studio, and a developer API, everything you need to build and ship AI video at scale.",
+  "canonical": null,
+  "themeColor": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "favicons": [
+    {
+      "rel": "shortcut icon",
+      "href": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/69820924b22548a6eaa672df_ltx-favicon-32x32.png",
+      "sizes": "",
+      "type": "image/x-icon"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/6982091f71fd2f946ca88f53_ltx-favicon-256x256.png",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "manifest": null,
+  "structuredData": [
+    {
+      "type": "Thing",
+      "name": null,
+      "sample": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://ltx.io/#organization\",\"name\":\"LTX\",\"url\":\"https://ltx.io/\",\"description\":\"From open models, to AI rendering engines, to creative intelligence, LTX is a system that learns your work and adapts to how you create.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/68872d15af29880764eac4aa/695b921e1"
+    },
+    {
+      "type": "Thing",
+      "name": null,
+      "sample": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://ltx.io/#webpage\",\"url\":\"https://ltx.io/\",\"name\":\"The AI Video Multi-Solution Suite For Creation | LTX\",\"description\":\"LTX is an ecosystem for AI video creation, combining open models, creative platforms, and APIs to learn your intent and adapt to how you create at scale.\",\"isPartOf\":{\"@type\":\"WebSite\",\"@id\":\"https://ltx.i"
+    }
+  ],
+  "score": {
+    "hasOg": true,
+    "hasTwitter": true,
+    "hasDescription": true,
+    "hasCanonical": false,
+    "hasStructuredData": true,
+    "hasFavicon": true,
+    "hasThemeColor": false
+  }
+}

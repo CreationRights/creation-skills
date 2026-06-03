@@ -1,0 +1,121 @@
+{
+  "library": "unknown",
+  "confidence": 0,
+  "alternates": [],
+  "stats": {
+    "count": 17,
+    "strokeOnly": 0,
+    "fillOnly": 0,
+    "mixed": 0,
+    "avgStrokeWidth": 0,
+    "gridDistribution": {
+      "16": 6
+    },
+    "roundedCapsFraction": 0
+  },
+  "signals": [],
+  "icons": [
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "navbar-logo",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": 16,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "mixed"
+    }
+  ]
+}

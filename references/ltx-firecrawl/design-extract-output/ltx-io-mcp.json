@@ -1,0 +1,1477 @@
+{
+  "colors": {
+    "all": [
+      {
+        "hex": "#333333",
+        "rgb": {
+          "r": 51,
+          "g": 51,
+          "b": 51,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 20
+        },
+        "count": 957,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#f9f9f9",
+        "rgb": {
+          "r": 249,
+          "g": 249,
+          "b": 249,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 98
+        },
+        "count": 746,
+        "contexts": [
+          "background",
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "count": 291,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#999999",
+        "rgb": {
+          "r": 153,
+          "g": 153,
+          "b": 153,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 60
+        },
+        "count": 64,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#555555",
+        "rgb": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 33
+        },
+        "count": 27,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#1f1f24",
+        "rgb": {
+          "r": 31,
+          "g": 31,
+          "b": 36,
+          "a": 1
+        },
+        "hsl": {
+          "h": 240,
+          "s": 7,
+          "l": 13
+        },
+        "count": 20,
+        "contexts": [
+          "background",
+          "border"
+        ]
+      },
+      {
+        "hex": "#0b0b0b",
+        "rgb": {
+          "r": 11,
+          "g": 11,
+          "b": 11,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 4
+        },
+        "count": 15,
+        "contexts": [
+          "background",
+          "text"
+        ]
+      },
+      {
+        "hex": "#dddddd",
+        "rgb": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 87
+        },
+        "count": 13,
+        "contexts": [
+          "background",
+          "border",
+          "text"
+        ]
+      },
+      {
+        "hex": "#0000ee",
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 238,
+          "a": 1
+        },
+        "hsl": {
+          "h": 240,
+          "s": 100,
+          "l": 47
+        },
+        "count": 12,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#3860be",
+        "rgb": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "hsl": {
+          "h": 222,
+          "s": 54,
+          "l": 48
+        },
+        "count": 12,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#7d87a0",
+        "rgb": {
+          "r": 125,
+          "g": 135,
+          "b": 160,
+          "a": 0.25
+        },
+        "hsl": {
+          "h": 223,
+          "s": 16,
+          "l": 56
+        },
+        "count": 6,
+        "contexts": [
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#f4f4f4",
+        "rgb": {
+          "r": 244,
+          "g": 244,
+          "b": 244,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 96
+        },
+        "count": 4,
+        "contexts": [
+          "background"
+        ]
+      },
+      {
+        "hex": "#2b61ff",
+        "rgb": {
+          "r": 43,
+          "g": 97,
+          "b": 255,
+          "a": 1
+        },
+        "hsl": {
+          "h": 225,
+          "s": 100,
+          "l": 58
+        },
+        "count": 4,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#7a7c81",
+        "rgb": {
+          "r": 122,
+          "g": 124,
+          "b": 129,
+          "a": 1
+        },
+        "hsl": {
+          "h": 223,
+          "s": 3,
+          "l": 49
+        },
+        "count": 4,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#2e3445",
+        "rgb": {
+          "r": 46,
+          "g": 52,
+          "b": 69,
+          "a": 1
+        },
+        "hsl": {
+          "h": 224,
+          "s": 20,
+          "l": 23
+        },
+        "count": 2,
+        "contexts": [
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#0a7da4",
+        "rgb": {
+          "r": 10,
+          "g": 125,
+          "b": 164,
+          "a": 1
+        },
+        "hsl": {
+          "h": 195,
+          "s": 89,
+          "l": 34
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#ff72b2",
+        "rgb": {
+          "r": 255,
+          "g": 114,
+          "b": 178,
+          "a": 1
+        },
+        "hsl": {
+          "h": 333,
+          "s": 100,
+          "l": 72
+        },
+        "count": 1,
+        "contexts": [
+          "background"
+        ]
+      },
+      {
+        "hex": "#003cf0",
+        "rgb": {
+          "r": 0,
+          "g": 60,
+          "b": 240,
+          "a": 1
+        },
+        "hsl": {
+          "h": 225,
+          "s": 100,
+          "l": 47
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#636367",
+        "rgb": {
+          "r": 99,
+          "g": 99,
+          "b": 103,
+          "a": 0.55
+        },
+        "hsl": {
+          "h": 240,
+          "s": 2,
+          "l": 40
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#32ae88",
+        "rgb": {
+          "r": 50,
+          "g": 174,
+          "b": 136,
+          "a": 1
+        },
+        "hsl": {
+          "h": 162,
+          "s": 55,
+          "l": 44
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#468254",
+        "rgb": {
+          "r": 70,
+          "g": 130,
+          "b": 84,
+          "a": 1
+        },
+        "hsl": {
+          "h": 134,
+          "s": 30,
+          "l": 39
+        },
+        "count": 1,
+        "contexts": [
+          "background"
+        ]
+      },
+      {
+        "hex": "#d1d1d1",
+        "rgb": {
+          "r": 209,
+          "g": 209,
+          "b": 209,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 82
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      },
+      {
+        "hex": "#bbbbbb",
+        "rgb": {
+          "r": 187,
+          "g": 187,
+          "b": 187,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 73
+        },
+        "count": 1,
+        "contexts": [
+          "border"
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "role": "nav",
+      "tag": "div",
+      "bounds": {
+        "x": 32,
+        "y": 42.53125,
+        "w": 1216,
+        "h": 58
+      },
+      "heading": null,
+      "buttonCount": 2,
+      "cardCount": 31,
+      "className": "navbar12_component w-nav"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 4,
+      "className": "ltx-dd-menu is-logo w-dropdown-list"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 317.5,
+        "y": 44.96875,
+        "w": 629.015625,
+        "h": 53.109375
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 24,
+      "className": "navbar12_menu is-page-height-tablet w-nav-menu"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 4,
+      "className": "ltx-dd-menu w-dropdown-list"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 3,
+      "className": "ltx-dd-menu w-dropdown-list"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 6,
+      "className": "ltx-dd-menu w-dropdown-list"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 3,
+      "className": "ltx-dd-menu w-dropdown-list"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 3,
+      "className": "ltx-dd-menu w-dropdown-list"
+    },
+    {
+      "role": "hero",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 104.53125,
+        "w": 1280,
+        "h": 800
+      },
+      "heading": "Open Creative Intelligence, Built for Production",
+      "buttonCount": 2,
+      "cardCount": 3,
+      "className": "scroll_section"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 1704.53125,
+        "w": 1280,
+        "h": 96
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 45,
+      "className": "ltx-section cc-3vwpadding cc-mobile"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 38.390625,
+        "y": 1704.53125,
+        "w": 1203.21875,
+        "h": 96
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 45,
+      "className": "logos-carousel"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 1800.53125,
+        "w": 1280,
+        "h": 775
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "mission-section-new"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 2575.53125,
+        "w": 1280,
+        "h": 1143.1875
+      },
+      "heading": "Build, Create, and Scale with LTX",
+      "buttonCount": 3,
+      "cardCount": 36,
+      "className": "flexible-cards-section"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 3718.71875,
+        "w": 1280,
+        "h": 1358.09375
+      },
+      "heading": "Research",
+      "buttonCount": 4,
+      "cardCount": 16,
+      "className": "research-section"
+    },
+    {
+      "role": "hero",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 5076.8125,
+        "w": 1280,
+        "h": 1096.078125
+      },
+      "heading": "LTX-2.3 and What We Built on It",
+      "buttonCount": 3,
+      "cardCount": 0,
+      "className": "open-source-section"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 6172.890625,
+        "w": 1280,
+        "h": 832
+      },
+      "heading": null,
+      "buttonCount": 1,
+      "cardCount": 3,
+      "className": "banner-section"
+    },
+    {
+      "role": "testimonials",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 7004.890625,
+        "w": 1280,
+        "h": 862.1875
+      },
+      "heading": "Success, Engineered Together",
+      "buttonCount": 0,
+      "cardCount": 1,
+      "className": "section-testimonial"
+    },
+    {
+      "role": "pricing",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 7867.078125,
+        "w": 1280,
+        "h": 638
+      },
+      "heading": "FAQs",
+      "buttonCount": 4,
+      "cardCount": 5,
+      "className": "section-faq"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 7867.078125,
+        "w": 1280,
+        "h": 640.15625
+      },
+      "heading": null,
+      "buttonCount": 1,
+      "cardCount": 0,
+      "className": "footer-section cc-ltx"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": "Cookie List",
+      "buttonCount": 5,
+      "cardCount": 1,
+      "className": "ot-hide ot-pc-scrollbar ot-enbl-chr"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "ot-pc-scrollbar"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 3,
+      "cardCount": 1,
+      "className": null
+    }
+  ],
+  "componentClusters": [
+    {
+      "kind": "button",
+      "structuralHash": "a",
+      "instanceCount": 9,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(249, 249, 249)",
+            "color": "rgb(11, 11, 11)",
+            "padding": "11.2px 20.8px 11.2px 20.8px",
+            "borderRadius": "800px",
+            "border": "1px solid rgb(249, 249, 249)",
+            "fontSize": "15.2px",
+            "fontWeight": "500"
+          },
+          "instanceCount": 2
+        },
+        {
+          "css": {
+            "background": "rgba(249, 249, 249, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "17.6px 28.8px 17.6px 28.8px",
+            "borderRadius": "800px",
+            "border": "1px solid rgb(249, 249, 249)",
+            "fontSize": "12.8px",
+            "fontWeight": "500"
+          },
+          "instanceCount": 6
+        },
+        {
+          "css": {
+            "background": "rgba(11, 11, 11, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "16px 28.8px 16px 28.8px",
+            "borderRadius": "800px",
+            "border": "1px solid rgb(249, 249, 249)",
+            "fontSize": "17.6px",
+            "fontWeight": "500"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>a",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div",
+      "instanceCount": 5,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 4
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div>script",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>video",
+      "instanceCount": 8,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 4
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 4
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "section>div",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(11, 11, 11)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div>div",
+      "instanceCount": 8,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        },
+        {
+          "css": {
+            "background": "rgb(0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 6
+        },
+        {
+          "css": {
+            "background": "rgb(0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div>div>div",
+      "instanceCount": 6,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 5
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>a>div",
+      "instanceCount": 3,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "h3",
+      "instanceCount": 6,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "28px",
+            "fontWeight": "500"
+          },
+          "instanceCount": 6
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div>p>div>div",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "p",
+      "instanceCount": 3,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "17.6px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>a",
+      "instanceCount": 6,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div",
+      "instanceCount": 4,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(249, 249, 249)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(249, 249, 249)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>a>a>a",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "card",
+      "structuralHash": "div>div>div>div>div>a",
+      "instanceCount": 3,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>a>a",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(51, 51, 51)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>div",
+      "instanceCount": 4,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(247, 247, 251, 0)",
+            "color": "rgb(51, 51, 51)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px solid rgb(43, 97, 255)",
+            "fontSize": "14px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 4
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button",
+      "instanceCount": 3,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(31, 31, 36)",
+            "color": "rgb(224, 224, 224)",
+            "padding": "12px 0px 12px 0px",
+            "borderRadius": "2px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "13.008px",
+            "fontWeight": "600"
+          },
+          "instanceCount": 1
+        },
+        {
+          "css": {
+            "background": "rgb(224, 224, 224)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "9.756px 19.512px 9.756px 19.512px",
+            "borderRadius": "130.08px",
+            "border": "2px solid rgb(224, 224, 224)",
+            "fontSize": "13.008px",
+            "fontWeight": "600"
+          },
+          "instanceCount": 2
+        }
+      ]
+    }
+  ],
+  "accessibility": {
+    "remediation": []
+  },
+  "cssHealth": {
+    "sheets": [
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 176,
+        "usedBytes": 172,
+        "unusedBytes": 4,
+        "unusedPercent": 2
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 6831,
+        "usedBytes": 948,
+        "unusedBytes": 5883,
+        "unusedPercent": 86
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 312,
+        "usedBytes": 0,
+        "unusedBytes": 312,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/css/content-lab-blank-temp.webflow.694bded7b7382c9c9e3a9942.d2988c59e.opt.min.css",
+        "totalBytes": 310584,
+        "usedBytes": 42558,
+        "unusedBytes": 268026,
+        "unusedPercent": 86
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 185,
+        "usedBytes": 0,
+        "unusedBytes": 185,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://lib.ltx.io/smoothScrollFix.css",
+        "totalBytes": 292,
+        "usedBytes": 47,
+        "unusedBytes": 245,
+        "unusedPercent": 84
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/css/content-lab-blank-temp.webflow.shared.674d11f0f.min.css",
+        "totalBytes": 32168,
+        "usedBytes": 4490,
+        "unusedBytes": 27678,
+        "unusedPercent": 86
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 361,
+        "usedBytes": 361,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 367,
+        "usedBytes": 48,
+        "unusedBytes": 319,
+        "unusedPercent": 87
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 328,
+        "usedBytes": 82,
+        "unusedBytes": 246,
+        "unusedPercent": 75
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 191,
+        "usedBytes": 183,
+        "unusedBytes": 8,
+        "unusedPercent": 4
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 487,
+        "usedBytes": 215,
+        "unusedBytes": 272,
+        "unusedPercent": 56
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 667,
+        "usedBytes": 487,
+        "unusedBytes": 180,
+        "unusedPercent": 27
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 185,
+        "usedBytes": 87,
+        "unusedBytes": 98,
+        "unusedPercent": 53
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 897,
+        "usedBytes": 374,
+        "unusedBytes": 523,
+        "unusedPercent": 58
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 322,
+        "usedBytes": 164,
+        "unusedBytes": 158,
+        "unusedPercent": 49
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 185,
+        "usedBytes": 0,
+        "unusedBytes": 185,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 601,
+        "usedBytes": 507,
+        "unusedBytes": 94,
+        "unusedPercent": 16
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 8251,
+        "usedBytes": 2322,
+        "unusedBytes": 5929,
+        "unusedPercent": 72
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 764,
+        "usedBytes": 525,
+        "unusedBytes": 239,
+        "unusedPercent": 31
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 764,
+        "usedBytes": 0,
+        "unusedBytes": 764,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 271,
+        "usedBytes": 60,
+        "unusedBytes": 211,
+        "unusedPercent": 78
+      },
+      {
+        "url": "https://ltx.io/",
+        "totalBytes": 764,
+        "usedBytes": 0,
+        "unusedBytes": 764,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F1170679846%3Fapp_id%3D122963&dntp=1&display_name=Vimeo&url=https%3A%2F%2Fvimeo.com%2F1170679846&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F2129903651-25669209ab4bc46e77c3b5c570d2d92001857271bf626876eaa500a26e29e7f9-d_1280%3Fregion%3Dus&type=text%2Fhtml&schema=vimeo",
+        "totalBytes": 51308,
+        "usedBytes": 1484,
+        "unusedBytes": 49824,
+        "unusedPercent": 97
+      },
+      {
+        "url": "https://player.vimeo.com/video/1170679846?app_id=122963&referrer=https%3A%2F%2Fltx.io%2F",
+        "totalBytes": 749,
+        "usedBytes": 717,
+        "unusedBytes": 32,
+        "unusedPercent": 4
+      },
+      {
+        "url": "https://player.vimeo.com/video/1170679846?app_id=122963&referrer=https%3A%2F%2Fltx.io%2F",
+        "totalBytes": 443,
+        "usedBytes": 189,
+        "unusedBytes": 254,
+        "unusedPercent": 57
+      },
+      {
+        "url": "https://player.vimeo.com/video/1170679846?app_id=122963&referrer=https%3A%2F%2Fltx.io%2F",
+        "totalBytes": 696,
+        "usedBytes": 648,
+        "unusedBytes": 48,
+        "unusedPercent": 7
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Inconsolata:400,700%7CAntonio:300,400,500,600,700%7CInter:300,400,500,600,700%7CJetBrains+Mono:300,400,500,600,700%7CMiriam+Libre:300,400,500,600,700",
+        "totalBytes": 33915,
+        "usedBytes": 0,
+        "unusedBytes": 33915,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://f.vimeocdn.com/p/4.46.52/css/player.css",
+        "totalBytes": 237164,
+        "usedBytes": 19242,
+        "unusedBytes": 217922,
+        "unusedPercent": 92
+      }
+    ],
+    "totalBytes": 690228,
+    "usedBytes": 75910,
+    "unusedBytes": 614318,
+    "unusedPercent": 89,
+    "importantCount": 152,
+    "duplicates": 13342,
+    "vendorPrefixes": {
+      "webkit": 168,
+      "moz": 45,
+      "ms": 31,
+      "o": 14
+    },
+    "keyframes": [
+      {
+        "name": "gradient-shift",
+        "steps": 3
+      }
+    ],
+    "specificity": {
+      "max": [
+        1,
+        9,
+        25
+      ],
+      "average": [
+        0,
+        1.78,
+        0.22
+      ],
+      "count": 7575
+    },
+    "issues": [
+      "152 !important rules",
+      "13342 duplicate declarations",
+      "89% unused CSS"
+    ]
+  }
+}
