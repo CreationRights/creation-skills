@@ -8,19 +8,19 @@ import SplitPanel from "@/components/sections/SplitPanel";
 import FinalCTA from "@/components/ui/FinalCTA";
 import { cskillsImages } from "@/content/images";
 
-export const metadata: Metadata = getPageMeta("/what-we-do");
+export const metadata: Metadata = getPageMeta("/capabilities");
 
-export default function WhatWeDoPage() {
+export default function CapabilitiesPage() {
   return (
     <>
       <Hero
-        eyebrow="WHAT WE DO"
-        headline="Redesign the company flow behind how media gets made."
-        subhead="Creation Skills helps companies redesign the people, production agents, operating files, approval gates, rights review, and protected records behind modern media creation."
+        eyebrow="CAPABILITIES"
+        headline="Build the media skills your enterprise team needs."
+        subhead="Creation Skills helps enterprise teams design the approved media skills, creation flows, Media Skill Packs, approval gates, rights rules, and evidence requirements behind governed multimodal production."
         image={cskillsImages.supporting.whatWeDo}
         compact
         primaryCta={{ label: "Book a C/Skills Review", href: "/book-review" }}
-        secondaryCta={{ label: "Explore Engagements", href: "/engagements" }}
+        secondaryCta={{ label: "Explore Programs", href: "/programs" }}
       />
 
       <Section>
@@ -43,16 +43,16 @@ export default function WhatWeDoPage() {
         <Container>
           <div className="section-header">
             <Eyebrow>WHAT WE BUILD</Eyebrow>
-            <h2>A governed company flow for media creation.</h2>
+            <h2>Governed media skills for your creation flow.</h2>
           </div>
           <div className="proof-grid">
             <div className="proof-block">
-              <h3 className="proof-block__title">Company Flow Design</h3>
+              <h3 className="proof-block__title">Creation Flow Design</h3>
               <p className="proof-block__desc">We document how your team creates, reviews, versions, packages, approves, and delivers media today, then design the future-state model.</p>
             </div>
             <div className="proof-block">
-              <h3 className="proof-block__title">Production Agent Operating Paths</h3>
-              <p className="proof-block__desc">We design company-owned agents with defined roles, owners, approved tasks, blocked tasks, operating files, and human checkpoints.</p>
+              <h3 className="proof-block__title">Media Agent Skill Definitions</h3>
+              <p className="proof-block__desc">We design company-owned media skills with defined roles, owners, approved actions, blocked actions, operating files, and human checkpoints.</p>
             </div>
             <div className="proof-block">
               <h3 className="proof-block__title">Human Approval &amp; Governance</h3>
@@ -66,8 +66,8 @@ export default function WhatWeDoPage() {
         <Container>
           <div className="section-header">
             <Eyebrow>CREATION RIGHTS READINESS</Eyebrow>
-            <h2>Prepare your company process before the platform arrives.</h2>
-            <p>Creation Skills prepares the company process. Creation Rights governs the protected layer. The platform works best when the company flow is already clear.</p>
+            <h2>Prepare your creation flow before the platform arrives.</h2>
+            <p>Creation Skills prepares the creation flow. Creation Rights governs the protected layer. The platform works best when the creation flow is already clear.</p>
           </div>
         </Container>
       </Section>

@@ -22,7 +22,7 @@ export const audiences = [
   {
     slug: "enterprise-creative-operations",
     title: "Enterprise Creative Operations Teams",
-    description: "Internal creative, legal, brand, production, marketing, technology, and operations teams that need a clearer media creation process before new tools and production paths scale across departments.",
+    description: "Internal creative, legal, brand, production, marketing, technology, and operations teams that need a clearer media creation process before new tools and creation flows scale across departments.",
     image: cskillsImages.audiences.enterpriseCreativeOps,
   },
 ] as const;

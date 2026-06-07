@@ -14,7 +14,7 @@ export default function BookReviewPage() {
     <>
       <Hero
         eyebrow="BOOK A C/SKILLS REVIEW"
-        headline="Start with a focused review of one production path."
+        headline="Start with a focused review of one creation flow."
         subhead="A C/Skills Review examines team roles, production-agent use, rights exposure, approval paths, tool stack, asset lifecycle, operating gaps, and Creation Rights readiness."
         image={cskillsImages.supporting.bookReview}
         compact
@@ -24,7 +24,7 @@ export default function BookReviewPage() {
         <Container narrow>
           <div className="section-header">
             <Eyebrow>REQUEST A REVIEW</Eyebrow>
-            <h2>Tell us about your team and production path.</h2>
+            <h2>Tell us about your team and creation flow.</h2>
             <p>We will review your submission and respond within two business days.</p>
           </div>
           <BookReviewForm />

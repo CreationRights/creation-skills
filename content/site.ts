@@ -3,5 +3,5 @@ export const site = {
   shortName: "C/Skills",
   tagline: "A Creation Rights Division",
   url: "https://creationskills.com",
-  description: "Creation Skills helps media and entertainment companies redesign how creative work gets made, reviewed, approved, governed, and scaled.",
+  description: "Creation Skills is the media consulting and advisory division helping enterprise teams prepare for multimodal media creation through Media Skill Packs, creation flows, and Creation Rights rollout readiness.",
 } as const;

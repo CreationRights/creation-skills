@@ -45,7 +45,7 @@ export default async function ConceptPage({ params }: { params: Promise<{ slug: 
         )}
         <CTAGroup
           primary={{ label: "Book a C/Skills Review", href: "/book-review" }}
-          secondary={{ label: "What We Do", href: "/what-we-do" }}
+          secondary={{ label: "Capabilities", href: "/capabilities" }}
         />
       </Container>
     </Section>

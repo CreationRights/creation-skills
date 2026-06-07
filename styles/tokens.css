@@ -10,7 +10,7 @@
   /* ── Text ── */
   --color-text-primary: #F5F5F5;
   --color-text-secondary: #B0B0B0;
-  --color-text-muted: #808080;
+  --color-text-muted: #999999;
   --color-text-faint: #555555;
 
   /* ── Accent — Lime ── */
@@ -91,7 +91,7 @@
   --max-width: 1320px;
   --max-width-narrow: 800px;
   --max-width-wide: 1440px;
-  --header-height: 80px;
+  --header-height: 64px;
 
   /* ── Z-index ── */
   --z-header: 100;

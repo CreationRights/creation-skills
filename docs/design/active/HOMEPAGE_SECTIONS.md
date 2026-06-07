@@ -23,7 +23,7 @@ Three zones: left (fixed ~200px), center (flex-1), right (fixed ~200px).
 | Element | Source | Value |
 |---|---|---|
 | Logo | `cskillsLogo.primary` | SVG, ~120px x 28px |
-| Nav items | `mainNav` from `content/navigation.ts` | Home, What We Do, Engagements, Who We Help, Creation Rights Readiness, Resources, About |
+| Nav items | `mainNav` from `content/navigation.ts` | Home, Programs, Capabilities, Skill Packs, Who We Help, How We Work, About |
 | CTA label | `ctaNav` from `content/navigation.ts` | "Book a C/Skills Review" |
 | CTA href | `ctaNav.href` | `/book-review` |
 
@@ -47,10 +47,10 @@ Three zones: left (fixed ~200px), center (flex-1), right (fixed ~200px).
 
 | Element | Style Token | Copy |
 |---|---|---|
-| Headline | `display-xl` | "Make better media faster," + line break + `<span class="accent">with control.</span>` |
-| Subhead | `body-lg` | "Creation Skills helps creative companies overhaul how media gets made, reviewed, approved, reused, and scaled so teams can make better work faster without losing rights, brand, or human control." |
+| Headline | `display-xl` | "Build the skills behind" + line break + `<span class="accent">governed media creation.</span>` |
+| Subhead | `body-lg` | "Creation Skills helps creative, brand, legal, production, and operations teams design the approved media skills, company flows, and rollout plans needed for AI-assisted media production." |
 | Primary CTA | Button `primary` | "Book a C/Skills Review" -> `/book-review` |
-| Secondary CTA | Button `secondary` | "Explore Engagements" -> `/engagements` |
+| Secondary CTA | Button `secondary` | "Explore Skill Packs" -> `/skill-packs` |
 
 ### Layout Detail
 
@@ -150,10 +150,10 @@ Full-width image within the container. No margin collapse with hero — the medi
 
 | # | Label | Description |
 |---|---|---|
-| 1 | Faster Creative Production | Streamline how creative assets move from brief to delivery, reducing rework and idle time. |
-| 2 | Clearer Approvals | Structured review steps with built-in legal and brand checkpoints at every stage. |
-| 3 | Rights-Aware Reuse | Track provenance for every asset, preventing unauthorized reuse across teams and channels. |
-| 4 | Creation Rights Readiness | Prepare your workflows for emerging NILP (Name, Image, Likeness, and Persona) standards. |
+| 1 | Approved Media Skills | Define what each media agent can do, which tools it uses, what rules apply, and what evidence must be saved. |
+| 2 | Clear Company Flows | Design the creation flows that move media from brief to delivery with structured review, approval, and rights checks. |
+| 3 | Rights-Ready Production | Build production paths where every asset respects NILP (Name, Image, Likeness, and Persona) from the start. |
+| 4 | Creation Rights Readiness | Prepare your team, creation flows, approval gates, and evidence requirements for full platform adoption. |
 
 ### Responsive
 
@@ -208,7 +208,7 @@ Full-width image within the container. No margin collapse with hero — the medi
 
 ---
 
-## Section 6: Engagements
+## Section 6: Skills / Rights Split + Programs
 
 **Background**: `--color-surface-lowest` (#080808)
 **Max-width**: 1320px
@@ -217,33 +217,45 @@ Full-width image within the container. No margin collapse with hero — the medi
 ### Layout
 
 ```
-// Engagements
+// The Ecosystem
 
-What C/Skills builds with your team                ← display-md, 56px, weight 300
+Creation Skills builds the skills. Creation Rights controls the rules.
 
-Structured engagements designed to integrate...     ← body-md, max-width 640px
+[EcosystemSplit: left column + right column]
 
-[80px gap]
+---
 
-[01 C/Skills Review]  [02 Operating Model Design]  [03 Implementation Office]
+// Programs
+
+What C/Skills builds with your team
+
+Structured programs designed to build the approved media skills...
+
+[01 C/Skills Audit]  [02 Media Skill Packs]  [03 Creation Rights Rollout Readiness]
 ```
 
 3-column card grid, 24px gap. Cards are full-height flex with space-between.
 
 ### Content
 
-**Section header**:
-- Label: "Engagements"
+**Ecosystem Split**:
+- Label: "The Ecosystem"
+- Headline: "Creation Skills builds the skills. Creation Rights controls the rules."
+- Left: "Creation Skills prepares the team" — Approved media skills, Creation flows, Operating files, Approval gates, Evidence requirements, Rollout plans
+- Right: "Creation Rights controls the proof" — Brand Profiles, Rights & NILP, Metadata, Approved agents and models, Evidence events, Release Proof, Release Manifest, Release Destinations, Protected Records
+
+**Programs section**:
+- Label: "Programs"
 - Headline: "What C/Skills builds with your team"
-- Subhead: "Structured engagements designed to integrate into your existing operations, reducing disruption while upgrading how creative work moves through your company."
+- Subhead: "Structured programs designed to build the approved media skills, creation flows, and rollout plans your team needs for governed media production."
 
-**Cards** (sourced from `content/engagements.ts`):
+**Cards** (sourced from `content/programs.ts`):
 
-| # | Title | Description (from engagements.ts) | Key Outcome | Link |
+| # | Title | Description | Key Outcome | Link |
 |---|---|---|---|---|
-| 01 | C/Skills Review | "A focused review of one production path, including team roles, production-agent use, rights exposure, approval paths, tool stack, asset lifecycle, operating gaps, and Creation Rights readiness." | Strategic Readiness Report | `/engagements/creation-skills-review` |
-| 02 | Operating Model Design | "A future-state model for how creative work should move from brief to production, agent-supported preparation, rights review, human approval, publication, reuse, reporting, and audit." | Custom Operating Blueprint | `/engagements/operating-model-design` |
-| 03 | Implementation Office | "Ongoing rollout support, owner guidance, agent supervision, operating-file updates, adoption tracking, stakeholder alignment, and Creation Rights readiness." | Deployed Production System | `/engagements/implementation-office` |
+| 01 | C/Skills Audit | "A structured review of your current media creation process..." | Strategic Readiness Report | `/programs/cskills-audit` |
+| 02 | Media Skill Packs | "Each Skill Pack defines what agents or models may do..." | Governed Skill Definitions | `/skill-packs` |
+| 03 | Creation Rights Rollout Readiness | "A readiness program that prepares your team..." | Platform-Ready Operating Model | `/programs/creation-rights-rollout-readiness` |
 
 ### Responsive
 
@@ -285,7 +297,7 @@ Structured engagements designed to integrate...     ← body-md, max-width 640px
 
 - **Label**: "Governance"
 - **Headline**: "Prepared for Creation Rights."
-- **Body**: "Our approach is designed around Creation Rights, ensuring every asset respects NILP (Name, Image, Likeness, and Persona), honors consent boundaries, and maintains clear provenance. Build workflows that protect your brand, creators, and intellectual property from the ground up."
+- **Body**: "Our approach is designed around Creation Rights, ensuring every asset respects NILP (Name, Image, Likeness, and Persona), honors consent boundaries, and maintains clear provenance. Build creation flows that protect your brand, creators, and intellectual property from the ground up."
 - **NILP sidebar**: See COMPONENT_MAP.md Section 3.7.
 
 ### Asset
@@ -372,7 +384,7 @@ Common Questions       | How long does a          A typical C/Skills
 
 ### Content
 
-- **Headline**: "Ready to redesign how your media gets made?"
+- **Headline**: "Ready to build the skills behind governed media creation?"
 - **CTA**: "Book a C/Skills Review" -> `/book-review`
 
 ### Responsive
@@ -395,19 +407,19 @@ Common Questions       | How long does a          A typical C/Skills
 
 All content from `content/footer.ts`:
 - `footerContent.positioning` (brand description)
-- `footerContent.columns` (3 link columns: Pages, Engagements, Resources)
+- `footerContent.columns` (3 link columns: Pages, Programs, Resources)
 - `footerContent.legal` (5 legal links)
 
 ### Layout
 
 ```
-[Logo]                    // PAGES           // ENGAGEMENTS      // RESOURCES
-A Creation Rights         What We Do          C/Skills Review     All Resources
-Division                  Method              Operating Model     Who We Help
-                          Creation Rights     Agent Operating     Contact
-Description...            About               Governance          Book a C/Skills
-                          FAQ                 Pilot Transform.    Review
-                                              Implementation
+[Logo]                    // PAGES           // PROGRAMS          // RESOURCES
+A Creation Rights         Capabilities        C/Skills Audit      All Resources
+Division                  How We Work         C/Skills Lab        Who We Help
+                          Creation Rights     C/Skills Academy    FAQ
+Description...            About               C/Skills OS         Book a C/Skills
+                          Contact             Media Agent Packs   Review
+                                              C/Skills Retainer
 
 ─────────────────────────────────────────────────────────────────────────────
 (c) 2026 Creation Skills. A Creation Rights Division.    Privacy  Terms  ...

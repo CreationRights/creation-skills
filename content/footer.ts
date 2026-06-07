@@ -1,25 +1,26 @@
 export const footerContent = {
-  positioning: "Creation Skills helps media and entertainment companies redesign how creative work gets made, reviewed, approved, governed, and scaled.",
+  positioning: "Media consulting and advisory for enterprise teams preparing for multimodal media creation across models, assets, metadata, approvals, evidence, and release.",
   columns: [
     {
       title: "Pages",
       links: [
-        { label: "What We Do", href: "/what-we-do" },
-        { label: "Method", href: "/method" },
+        { label: "Capabilities", href: "/capabilities" },
+        { label: "Media Ecosystem", href: "/media-ecosystem" },
+        { label: "How We Work", href: "/how-we-work" },
         { label: "Creation Rights Readiness", href: "/creation-rights-readiness" },
         { label: "About", href: "/about" },
-        { label: "FAQ", href: "/faq" },
+        { label: "Contact", href: "/contact" },
       ],
     },
     {
-      title: "Engagements",
+      title: "Programs",
       links: [
-        { label: "C/Skills Review", href: "/engagements/creation-skills-review" },
-        { label: "Operating Model Design", href: "/engagements/operating-model-design" },
-        { label: "Agent Operating Blueprint", href: "/engagements/agent-operating-blueprint" },
-        { label: "Governance Blueprint", href: "/engagements/governance-blueprint" },
-        { label: "Pilot Transformation", href: "/engagements/pilot-transformation" },
-        { label: "Implementation Office", href: "/engagements/implementation-office" },
+        { label: "C/Skills Audit", href: "/programs/cskills-audit" },
+        { label: "C/Skills Lab", href: "/programs/cskills-lab" },
+        { label: "C/Skills Academy", href: "/programs/cskills-academy" },
+        { label: "C/Skills Operating System", href: "/programs/cskills-operating-system" },
+        { label: "Media Skill Packs", href: "/skill-packs" },
+        { label: "C/Skills Retainer", href: "/programs/cskills-retainer" },
       ],
     },
     {
@@ -27,7 +28,7 @@ export const footerContent = {
       links: [
         { label: "All Resources", href: "/resources" },
         { label: "Who We Help", href: "/who-we-help" },
-        { label: "Contact", href: "/contact" },
+        { label: "FAQ", href: "/faq" },
         { label: "Book a C/Skills Review", href: "/book-review" },
       ],
     },
