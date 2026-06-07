@@ -2,7 +2,7 @@ export const confidentialityNotice = "Do not send confidential source files, unr
 
 export const reviewFormFields = {
   title: "Book a C/Skills Review",
-  subtitle: "Start with a focused review of one production path.",
+  subtitle: "Start with a focused review of one creation flow.",
   fields: [
     { name: "name", label: "Full Name", type: "text" as const, required: true },
     { name: "email", label: "Work Email", type: "email" as const, required: true },
@@ -21,7 +21,7 @@ export const reviewFormFields = {
       "Technology Platform",
       "Other",
     ]},
-    { name: "productionPath", label: "Which production path would you like to review?", type: "textarea" as const, required: false },
+    { name: "productionPath", label: "Which creation flow would you like to review?", type: "textarea" as const, required: false },
     { name: "context", label: "Anything else we should know?", type: "textarea" as const, required: false },
   ],
 } as const;

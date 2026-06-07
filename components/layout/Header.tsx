@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { cskillsLogo } from "@/content/logo";
@@ -9,6 +10,12 @@ import { Menu, X } from "lucide-react";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
+  const pathname = usePathname();
+
+  function isActive(href: string) {
+    if (href === "/") return pathname === "/";
+    return pathname.startsWith(href);
+  }
 
   return (
     <header className="header">
@@ -17,8 +24,8 @@ export default function Header() {
           <Image
             src={cskillsLogo.primary}
             alt="Creation Skills"
-            width={120}
-            height={28}
+            width={110}
+            height={26}
             priority
           />
         </Link>
@@ -28,7 +35,7 @@ export default function Header() {
             <Link
               key={item.href}
               href={item.href}
-              className="header__link"
+              className={`header__link${isActive(item.href) ? " header__link--active" : ""}`}
               onClick={() => setOpen(false)}
             >
               {item.label}

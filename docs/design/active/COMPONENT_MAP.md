@@ -130,10 +130,10 @@ These components exist only on the homepage and are defined as sections within `
 | Description | `body-xs` (13px, weight 300, line-height 1.5). Color: `--color-text-muted`. Left border: 1px solid `--color-border-accent` (lime 30%), padding-left 12px. |
 
 4 items:
-1. `// FASTER CREATIVE PRODUCTION` — "Streamline how creative assets move from brief to delivery, reducing rework and idle time."
-2. `// CLEARER APPROVALS` — "Structured review steps with built-in legal and brand checkpoints at every stage."
-3. `// RIGHTS-AWARE REUSE` — "Track provenance for every asset, preventing unauthorized reuse across teams and channels."
-4. `// CREATION RIGHTS READINESS` — "Prepare your workflows for emerging NILP (Name, Image, Likeness, and Persona) standards."
+1. `// APPROVED MEDIA SKILLS` — "Define what each media agent can do, which tools it uses, what rules apply, and what evidence must be saved."
+2. `// CLEAR COMPANY FLOWS` — "Design the creation flows that move media from brief to delivery with structured review, approval, and rights checks."
+3. `// RIGHTS-READY PRODUCTION` — "Build production paths where every asset respects NILP (Name, Image, Likeness, and Persona) from the start."
+4. `// CREATION RIGHTS READINESS` — "Prepare your team, creation flows, approval gates, and evidence requirements for full platform adoption."
 
 ### 3.4 Vision Editorial
 
@@ -151,11 +151,11 @@ These components exist only on the homepage and are defined as sections within `
 
 4 features:
 1. **Granular Rights Tracking** — "Maintain provenance for every asset, mapping inputs to outputs reliably across the production pipeline to ensure clear rights accountability."
-2. **Embedded Governance** — "Compliance checks integrated into creative workflows at every stage, not bolted on afterwards."
-3. **Scalable Workflows** — "Design workflows that scale across teams and regions, supporting high-volume creative production with consistent governance."
+2. **Embedded Governance** — "Governance checks integrated into creation flows at every stage, not bolted on afterwards."
+3. **Scalable Company Flows** — "Design creation flows that scale across teams and regions, supporting high-volume media production with consistent governance and evidence requirements."
 4. **Brand Alignment** — "Ensure all media output aligns with your brand guidelines, stylistic standards, and tonal requirements from the start."
 
-### 3.5 Engagement Card
+### 3.5 Program Card
 
 | Property | Specification |
 |---|---|
@@ -170,13 +170,13 @@ These components exist only on the homepage and are defined as sections within `
 | **Title** | `heading-lg` (32px, weight 500) |
 | **Description** | `body-sm` (14px, weight 300, `--color-text-secondary`) |
 | **Key Outcome** | Left-bordered block (1px lime 50%). Label in `label-sm` (10px mono, muted). Value in `body-sm`, `--color-text-primary`. |
-| **Hover link** | "Explore Engagement ->" in `label-caps`, `--color-lime`, opacity 0 at rest, 1 on card hover. |
-| **Link** | Entire card is an `<a>` wrapping to the engagement detail page. |
+| **Hover link** | "Explore Program ->" in `label-caps`, `--color-lime`, opacity 0 at rest, 1 on card hover. |
+| **Link** | Entire card is an `<a>` wrapping to the program detail page. |
 
 3 cards displayed:
-1. `01` — C/Skills Review (slug: `creation-skills-review`)
-2. `02` — Operating Model Design (slug: `operating-model-design`)
-3. `03` — Implementation Office (slug: `implementation-office`)
+1. `01` — C/Skills Audit (slug: `cskills-audit`, href: `/programs/cskills-audit`)
+2. `02` — Media Skill Packs (href: `/skill-packs`)
+3. `03` — Creation Rights Rollout Readiness (slug: `creation-rights-rollout-readiness`, href: `/programs/creation-rights-rollout-readiness`)
 
 ### 3.6 Creation Rights Split Panel
 

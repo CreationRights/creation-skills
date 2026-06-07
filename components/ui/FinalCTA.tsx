@@ -11,15 +11,15 @@ type FinalCTAProps = {
 };
 
 export default function FinalCTA({
-  headline = "Make your media creation process ready for rights, agents, approvals, and scale.",
-  body = "Creation Skills helps your company move from scattered experiments to a governed production system your team can own, operate, and improve over time.",
+  headline = "Prepare your media team for multimodal media.",
+  body = "Creation Skills is the media consulting and advisory division that helps enterprise teams design approved media skills, company flows, and Media Skill Packs for governed production across image, video, audio, voice, likeness, and release.",
   primaryCta = { label: "Book a C/Skills Review", href: "/book-review" },
-  secondaryCta = { label: "Explore Engagements", href: "/engagements" },
+  secondaryCta = { label: "Explore Programs", href: "/programs" },
   supportLines = [
-    "Your company flow.",
-    "Your production agents.",
-    "Your approval gates.",
-    "Prepared for Creation Rights.",
+    "Your approved media skills.",
+    "Your company flows.",
+    "Your Media Skill Packs.",
+    "Ready for Creation Rights rollout.",
   ],
 }: FinalCTAProps) {
   return (

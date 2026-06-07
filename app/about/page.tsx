@@ -27,7 +27,7 @@ export default function AboutPage() {
             <Eyebrow>WHY CREATION SKILLS EXISTS</Eyebrow>
             <h2>The platform works best when the company process is ready.</h2>
             <p>
-              Creation Rights is the platform where rights, NILP&reg;, consent, talent use, metadata, approvals, audit, and compliance-sensitive media records are governed.
+              Creation Rights is the platform where rights, NILP&reg;, consent, talent use, metadata, approvals, evidence, and release records are governed.
               But the platform cannot fix what the company has not defined.
             </p>
             <p>

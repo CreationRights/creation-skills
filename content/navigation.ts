@@ -1,10 +1,10 @@
 export const mainNav = [
   { label: "Home", href: "/" },
-  { label: "What We Do", href: "/what-we-do" },
-  { label: "Engagements", href: "/engagements" },
+  { label: "Programs", href: "/programs" },
+  { label: "Capabilities", href: "/capabilities" },
+  { label: "Skill Packs", href: "/skill-packs" },
   { label: "Who We Help", href: "/who-we-help" },
-  { label: "Creation Rights Readiness", href: "/creation-rights-readiness" },
-  { label: "Resources", href: "/resources" },
+  { label: "How We Work", href: "/how-we-work" },
   { label: "About", href: "/about" },
 ] as const;
 

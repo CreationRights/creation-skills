@@ -14,11 +14,11 @@ const faqs = [
   },
   {
     q: "Who is Creation Skills for?",
-    a: "Media and entertainment enterprises, brands with large content operations, agencies and production companies, and enterprise creative operations teams that need a clearer media creation process before new tools and production paths scale across departments.",
+    a: "Media and entertainment enterprises, brands with large content operations, agencies and production companies, and enterprise creative operations teams that need a clearer media creation process before new tools and creation flows scale across departments.",
   },
   {
     q: "What is the difference between Creation Skills and Creation Rights?",
-    a: "Creation Skills prepares the company process. Creation Rights governs the protected layer. Creation Skills is the consulting engagement that builds the operating model. Creation Rights is the platform where rights, NILP\u00AE, consent, metadata, approvals, audit, and compliance records are governed.",
+    a: "Creation Skills prepares the company process. Creation Rights governs the protected layer. Creation Skills is the consulting advisory that builds the operating model. Creation Rights is the platform where rights, NILP\u00AE, consent, metadata, approvals, evidence, and release records are governed.",
   },
   {
     q: "What is a production agent?",
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     q: "What is a human approval gate?",
-    a: "A human approval gate is a defined point in the production path where a named person must review and approve the work before it can move forward. Gates cover final creative, client-facing work, public posts, talent-facing materials, paid media, and rights-sensitive decisions.",
+    a: "A human approval gate is a defined point in the creation flow where a named person must review and approve the work before it can move forward. Gates cover final creative, client-facing work, public posts, talent-facing materials, paid media, and rights-sensitive decisions.",
   },
   {
     q: "What is NILP\u00AE?",
@@ -38,7 +38,7 @@ const faqs = [
   },
   {
     q: "What does a C/Skills Review include?",
-    a: "A C/Skills Review is a focused review of one production path. It examines team roles, production-agent use, rights exposure, approval paths, tool stack, asset lifecycle, operating gaps, and Creation Rights readiness. It produces a current-state flow map, operating gap report, and priority roadmap.",
+    a: "A C/Skills Review is a focused review of one creation flow. It examines team roles, media skill definitions, rights exposure, approval paths, tool stack, asset lifecycle, operating gaps, and Creation Rights readiness. It produces a current-state flow map, operating gap report, and priority roadmap.",
   },
   {
     q: "Is Creation Skills a software product?",
