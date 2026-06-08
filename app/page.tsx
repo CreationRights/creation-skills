@@ -10,9 +10,9 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <Hero
-        eyebrow="MEDIA CONSULTING FOR MULTIMODAL TEAMS"
-        headline={<>Build the skills for <span className="accent">multimodal&nbsp;media.</span></>}
-        subhead="Creation Skills helps creative, brand, legal, production, and operations teams prepare approved media skills, company flows, and rollout plans for AI-assisted image, video, audio, voice, likeness, metadata, and release-ready media."
+        eyebrow="CONSULTING FOR THE NEW MEDIA ECOSYSTEM"
+        headline={<>Build the skills behind <span className="accent">modern&nbsp;media&nbsp;creation.</span></>}
+        subhead="Creation Skills helps media and creative teams use new tools, models, and agent assisted production without losing control of rights, approvals, or release."
         image={cskillsImages.core.homeHero}
         primaryCta={{ label: "Book a C/Skills Review", href: "/book-review" }}
         secondaryCta={{ label: "Explore Skill Packs", href: "/skill-packs" }}
@@ -23,20 +23,20 @@ export default function HomePage() {
         <div className="hp-container">
           <div className="hp-value-strip__grid">
             <div className="hp-value-strip__item">
-              <div className="hp-label">Approved Media Skills</div>
-              <p className="hp-value-strip__desc">Define what each media agent can do, which models and tools it uses, what brand and rights rules apply, and what evidence must be saved.</p>
+              <div className="hp-label">Approved Skills</div>
+              <p className="hp-value-strip__desc">Define what each skill can do, which tools it uses, what brand and rights rules apply, and what evidence must be saved.</p>
             </div>
             <div className="hp-value-strip__item">
               <div className="hp-label">Company Flows</div>
-              <p className="hp-value-strip__desc">Design the creation flows that move media from brief to release with structured review, approval, and rights checks at every stage.</p>
+              <p className="hp-value-strip__desc">Design the creation flows that move work from brief to release with structured review, approval, and rights checks at every stage.</p>
             </div>
             <div className="hp-value-strip__item">
-              <div className="hp-label">Rights-Ready Production</div>
+              <div className="hp-label">Rights-Ready Work</div>
               <p className="hp-value-strip__desc">Build creation flows where every asset respects NILP&reg; (Name, Image, Likeness, and Persona), brand rules, and evidence requirements.</p>
             </div>
             <div className="hp-value-strip__item">
               <div className="hp-label">Release Readiness</div>
-              <p className="hp-value-strip__desc">Prepare your team, media skills, approval gates, and evidence requirements for full Creation Rights rollout.</p>
+              <p className="hp-value-strip__desc">Prepare your team, approval gates, and evidence requirements for full Creation Rights rollout.</p>
             </div>
           </div>
         </div>
@@ -68,12 +68,12 @@ export default function HomePage() {
                 <div className="hp-vision__feature">
                   <div className="hp-vision__dot" />
                   <h3 className="hp-vision__feature-title">Multimodal Media</h3>
-                  <p className="hp-vision__feature-desc">Image, video, audio, voice, likeness, persona, metadata, prompts, models, agents, approvals, rights, evidence, and release records moving together inside one company media system.</p>
+                  <p className="hp-vision__feature-desc">Image, video, audio, voice, likeness, persona, metadata, prompts, models, approvals, rights, evidence, and release records moving together inside one company system.</p>
                 </div>
                 <div className="hp-vision__feature">
                   <div className="hp-vision__dot" />
                   <h3 className="hp-vision__feature-title">What This Requires</h3>
-                  <p className="hp-vision__feature-desc">Multimodal media connects assets, models, prompts, agents, metadata, rights, approvals, evidence, and release records. Creation Skills helps teams design the skills and systems needed to operate in that environment.</p>
+                  <p className="hp-vision__feature-desc">Assets, models, prompts, metadata, rights, approvals, evidence, and release records all moving together. Creation Skills helps teams design the approved skills and company flows needed to operate in that environment.</p>
                 </div>
               </div>
             </div>
@@ -81,21 +81,21 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Media Ecosystem */}
+      {/* Creative Stack */}
       <section className="hp-ecosystem">
         <div className="hp-container">
-          <div className="hp-label">Media Ecosystem</div>
-          <h2 className="hp-ecosystem__headline">The new media stack is already here. Most teams just do not have rules for it yet.</h2>
-          <p className="hp-ecosystem__intro">Creative teams now work across models, prompts, agents, asset libraries, review systems, DAMs, metadata standards, voice tools, video tools, and release records. Creation Skills helps companies turn that stack into approved media capability.</p>
+          <div className="hp-label">The New Creative Stack</div>
+          <h2 className="hp-ecosystem__headline">The new creative stack is already here. Most teams just do not have rules for it yet.</h2>
+          <p className="hp-ecosystem__intro">Creative tools, assets, approvals, rights, metadata, and release proof now move together. We help teams organize that process so work can move from idea to release with more confidence.</p>
         </div>
       </section>
 
-      {/* Media Stack Board */}
+      {/* Tool Ecosystem */}
       <section className="hp-stack">
         <div className="hp-container">
-          <div className="hp-label">Media Stack</div>
-          <h2 className="hp-stack__headline">Built around the new media stack.</h2>
-          <p className="hp-stack__subhead">Creation Skills designs approved media skills around the tools, models, asset systems, review platforms, metadata standards, and release controls enterprise teams already use.</p>
+          <div className="hp-label">Tool Ecosystem</div>
+          <h2 className="hp-stack__headline">Built around the tools your team already uses.</h2>
+          <p className="hp-stack__subhead">Creation Skills designs approved skills around the tools, models, asset systems, review platforms, metadata standards, and release controls your team already uses.</p>
           <div className="hp-stack__board">
             <div className="hp-stack__group">
               <span className="hp-stack__group-label">Creative Models and Generation</span>
@@ -155,7 +155,7 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-          <p className="hp-stack__bridge">Creation Skills does not replace these tools. It helps enterprise teams decide how they should be used, reviewed, documented, and prepared for Creation Rights.</p>
+          <p className="hp-stack__bridge">Creation Skills does not replace these tools. It helps teams define how they should be used, reviewed, and prepared for Creation Rights rollout.</p>
         </div>
       </section>
 
@@ -168,7 +168,7 @@ export default function HomePage() {
             left={{
               title: "Creation Skills prepares the team",
               items: [
-                "Approved media skills",
+                "Approved skills",
                 "Creation flows",
                 "Operating files",
                 "Approval gates",
@@ -182,7 +182,7 @@ export default function HomePage() {
                 "Brand Profiles",
                 "Rights & NILP\u00AE",
                 "Metadata",
-                "Approved agents and models",
+                "Approved tools and models",
                 "Evidence events",
                 "Release Proof",
                 "Release Manifest",
@@ -199,13 +199,13 @@ export default function HomePage() {
         <div className="hp-container">
           <div className="hp-label">Programs</div>
           <h2 className="hp-engagements__headline">What C/Skills builds with your team</h2>
-          <p className="hp-engagements__subhead">Advisory programs that help enterprise teams define approved media skills, company flows, evidence requirements, and Creation Rights rollout readiness.</p>
+          <p className="hp-engagements__subhead">Advisory programs that help teams define approved skills, company flows, evidence requirements, and Creation Rights rollout readiness.</p>
           <div className="hp-engagements__grid">
             <a href="/programs/cskills-audit" className="hp-ecard">
               <div className="hp-ecard__top">
                 <span className="hp-ecard__index">01</span>
                 <h3 className="hp-ecard__title">C/Skills Audit</h3>
-                <p className="hp-ecard__desc">A structured review of your current media system, identifying gaps in creation flow, agent skill definitions, approval paths, rights exposure, and Creation Rights readiness.</p>
+                <p className="hp-ecard__desc">A structured review of your current creative system, identifying gaps in creation flow, skill definitions, approval paths, rights exposure, and Creation Rights readiness.</p>
               </div>
               <div className="hp-ecard__bottom">
                 <div className="hp-ecard__outcome">
@@ -218,13 +218,13 @@ export default function HomePage() {
             <a href="/skill-packs" className="hp-ecard">
               <div className="hp-ecard__top">
                 <span className="hp-ecard__index">02</span>
-                <h3 className="hp-ecard__title">Media Skill Packs</h3>
-                <p className="hp-ecard__desc">Each Skill Pack defines what agents or models may do, which tools they can use, what assets they can touch, what brand and rights rules apply, what metadata must return, what approvals are required, what evidence must be saved, and what Creation Rights checks before release.</p>
+                <h3 className="hp-ecard__title">Skill Packs</h3>
+                <p className="hp-ecard__desc">Each Skill Pack defines what tools and models may be used, what assets they can touch, what brand and rights rules apply, what metadata must return, what approvals are required, what evidence must be saved, and what Creation Rights checks before release.</p>
               </div>
               <div className="hp-ecard__bottom">
                 <div className="hp-ecard__outcome">
                   <span className="hp-ecard__outcome-label">Key Outcome</span>
-                  <span className="hp-ecard__outcome-value">Governed Skill Definitions</span>
+                  <span className="hp-ecard__outcome-value">Approved Skill Definitions</span>
                 </div>
                 <span className="hp-ecard__hover-link">Explore Program &rarr;</span>
               </div>
@@ -233,12 +233,12 @@ export default function HomePage() {
               <div className="hp-ecard__top">
                 <span className="hp-ecard__index">03</span>
                 <h3 className="hp-ecard__title">Creation Rights Rollout Readiness</h3>
-                <p className="hp-ecard__desc">A readiness program that prepares your team, creation flows, media skills, approval gates, and evidence requirements for full Creation Rights platform adoption.</p>
+                <p className="hp-ecard__desc">A readiness program that prepares your team, creation flows, approved skills, approval gates, and evidence requirements for full Creation Rights platform adoption.</p>
               </div>
               <div className="hp-ecard__bottom">
                 <div className="hp-ecard__outcome">
                   <span className="hp-ecard__outcome-label">Key Outcome</span>
-                  <span className="hp-ecard__outcome-value">Platform-Ready Media Operations</span>
+                  <span className="hp-ecard__outcome-value">Platform Ready Operations</span>
                 </div>
                 <span className="hp-ecard__hover-link">Explore Program &rarr;</span>
               </div>
@@ -263,7 +263,7 @@ export default function HomePage() {
             <div className="hp-rights__content">
               <div className="hp-label">Governance</div>
               <h2 className="hp-rights__headline">Prepare for Creation Rights rollout.</h2>
-              <p className="hp-rights__body">Every media system built by Creation Skills is designed to connect with the Creation Rights platform. Assets respect NILP&reg; (Name, Image, Likeness, and Persona), honor consent boundaries, carry provenance, and maintain governed release records from production through to delivery.</p>
+              <p className="hp-rights__body">Every creative system built by Creation Skills is designed to connect with the Creation Rights platform. Assets respect NILP&reg; (Name, Image, Likeness, and Persona), honor consent boundaries, carry provenance, and maintain complete release records from production through to delivery.</p>
               <div className="hp-nilp">
                 <div className="hp-nilp__title">The NILP Framework</div>
                 <div className="hp-nilp__items">
@@ -271,14 +271,14 @@ export default function HomePage() {
                     <span className="hp-nilp__badge">N</span>
                     <div className="hp-nilp__text">
                       <span className="hp-nilp__name">Name &amp; Identity</span>
-                      <span className="hp-nilp__desc">Protocols for talent attribution and metadata tagging across all production outputs.</span>
+                      <span className="hp-nilp__desc">Protocols for talent attribution and metadata tagging across all creative outputs.</span>
                     </div>
                   </div>
                   <div className="hp-nilp__item">
                     <span className="hp-nilp__badge">I</span>
                     <div className="hp-nilp__text">
                       <span className="hp-nilp__name">Image</span>
-                      <span className="hp-nilp__desc">Visual consent boundaries and persistent usage tracking across production iterations.</span>
+                      <span className="hp-nilp__desc">Visual consent boundaries and persistent usage tracking across every version and iteration.</span>
                     </div>
                   </div>
                   <div className="hp-nilp__item">
@@ -292,7 +292,7 @@ export default function HomePage() {
                     <span className="hp-nilp__badge">P</span>
                     <div className="hp-nilp__text">
                       <span className="hp-nilp__name">Persona</span>
-                      <span className="hp-nilp__desc">Protections ensuring only authorized representations of persona enter production and release.</span>
+                      <span className="hp-nilp__desc">Protections ensuring only authorized representations of persona enter finished work and release.</span>
                     </div>
                   </div>
                 </div>
@@ -306,7 +306,7 @@ export default function HomePage() {
       <section className="hp-audiences">
         <div className="hp-container">
           <div className="hp-label">Who We Help</div>
-          <h2 className="hp-audiences__headline">For teams producing multimodal media at scale</h2>
+          <h2 className="hp-audiences__headline">For teams turning assets into approved work</h2>
           <div className="hp-audiences__grid">
             {audiences.map((a) => (
               <a key={a.slug} href={`/who-we-help/${a.slug}`} className="hp-acard">
@@ -334,7 +334,7 @@ export default function HomePage() {
       <section className="hp-resources">
         <div className="hp-container">
           <div className="hp-label">Resources</div>
-          <h2 className="hp-resources__headline">Field notes on modern media operations</h2>
+          <h2 className="hp-resources__headline">Field notes on the new creative stack</h2>
           <div className="hp-resources__grid">
             <a href={`/resources/${resources[0].slug}`} className="hp-rcard hp-rcard--lead">
               <div className="hp-rcard__image">
@@ -393,7 +393,7 @@ export default function HomePage() {
       {/* Final CTA */}
       <section className="hp-final-cta">
         <div className="hp-container">
-          <h2 className="hp-final-cta__headline">Prepare your team for multimodal media.</h2>
+          <h2 className="hp-final-cta__headline">Build the skills your team needs next.</h2>
           <a href="/book-review" className="hp-final-cta__btn">Book a C/Skills Review</a>
         </div>
       </section>

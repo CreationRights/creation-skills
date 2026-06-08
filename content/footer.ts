@@ -1,5 +1,5 @@
 export const footerContent = {
-  positioning: "Media consulting and advisory for enterprise teams preparing for multimodal media creation across models, assets, metadata, approvals, evidence, and release.",
+  positioning: "Creation Skills helps enterprise teams prepare approved skills, company flows, evidence requirements, and Creation Rights rollout plans for the new creative stack.",
   columns: [
     {
       title: "Pages",
