@@ -45,11 +45,27 @@ export default async function ProgramPage({ params }: { params: Promise<{ slug: 
 
       <Section>
         <Container narrow>
-          {bodyText && <p style={{ fontSize: "var(--text-lg)", lineHeight: "var(--leading-relaxed)", marginBottom: "var(--space-2xl)" }}>{bodyText}</p>}
-          <CTAGroup
-            primary={{ label: "Book a C/Skills Review", href: "/book-review" }}
-            secondary={{ label: "All Programs", href: "/programs" }}
-          />
+          <div className="prog-detail">
+            <div className="prog-detail__field">
+              <span className="prog-card__label">What you get</span>
+              <p className="prog-detail__value">{program.whatYouGet}</p>
+            </div>
+            <div className="prog-detail__field">
+              <span className="prog-card__label">Best for</span>
+              <p className="prog-detail__value">{program.bestFor}</p>
+            </div>
+            <div className="prog-detail__field">
+              <span className="prog-card__label">Outcome</span>
+              <p className="prog-detail__value">{program.outcome}</p>
+            </div>
+          </div>
+          {bodyText && <p style={{ fontSize: "var(--text-base)", lineHeight: "var(--leading-relaxed)", marginTop: "var(--space-32)", color: "var(--color-text-secondary)" }}>{bodyText}</p>}
+          <div style={{ marginTop: "var(--space-48)" }}>
+            <CTAGroup
+              primary={{ label: "Book a C/Skills Review", href: "/book-review" }}
+              secondary={{ label: "All Programs", href: "/programs" }}
+            />
+          </div>
         </Container>
       </Section>
 

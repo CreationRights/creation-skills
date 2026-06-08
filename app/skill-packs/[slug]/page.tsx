@@ -309,9 +309,13 @@ export default async function SkillPackDetailPage({ params }: { params: Promise<
         </div>
       </section>
 
-      {/* Tabs */}
+      {/* Preview Notice + Tabs */}
       <section className="spd-main">
         <div className="spd-main__container">
+          <div className="spd-preview-notice">
+            <span className="spd-preview-notice__badge">Sample Preview</span>
+            <span className="spd-preview-notice__text">This is a public preview of the pack structure. Client teams receive the full operating file with approved tool lists, Brand Profile references, Rights &amp; NILP&reg; rules, and Creation Rights rollout notes.</span>
+          </div>
           <PackTabs tabs={tabs} />
         </div>
       </section>
