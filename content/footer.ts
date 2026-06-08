@@ -34,10 +34,7 @@ export const footerContent = {
     },
   ],
   legal: [
-    { label: "Privacy", href: "/privacy" },
-    { label: "Terms", href: "/terms" },
-    { label: "Cookies", href: "/cookies" },
+    { label: "Legal Center", href: "/legal" },
     { label: "Accessibility", href: "/accessibility" },
-    { label: "Legal Notice", href: "/legal-notice" },
   ],
 } as const;
