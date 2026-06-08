@@ -71,4 +71,8 @@ export const pageSeo: Record<string, { title: string; description: string }> = {
     title: "Legal Notice | Creation Skills",
     description: "Creation Skills legal notice.",
   },
+  "/legal": {
+    title: "Legal Center | Creation Skills",
+    description: "Legal documents for Creation Skills, organized by region. Privacy policies, terms of service, cookie policies, accessibility statements, and data processing terms for US and UK.",
+  },
 };

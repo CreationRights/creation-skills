@@ -45,7 +45,7 @@ export default function Footer() {
           </span>
           <div className="footer__legal">
             {footerContent.legal.map((link) => (
-              <Link key={link.href} href={link.href}>
+              <Link key={link.label} href={link.href}>
                 {link.label}
               </Link>
             ))}
